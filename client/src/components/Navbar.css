@@ -1,0 +1,138 @@
+@media only screen and (max-width: 500px) {
+    #display_none {
+        display: none;
+    }
+
+    .display_none {
+        display: none;
+    }
+
+    nav #profile {
+        left: 60vw;
+        position: relative;
+    }
+
+    nav #profile img {
+        width: 7vw;
+    }
+
+    nav {
+        padding: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+
+    #logo {
+        width: 13vw;
+        padding-right: 0vw;
+        padding-left: 0px;
+    }
+
+    .hamburger {
+        width: 8vw;
+        display: block;
+        padding-right: 0vw;
+        padding-left: 0px;
+    }
+
+    .container {
+        padding: 0px;
+        width: 100%;
+    }
+
+    nav #profileTable {
+        display: none;
+    }
+
+}
+
+@media only screen and (min-width: 500px) and (max-width: 800px) {
+    nav #display_none {
+        display: none;
+    }
+
+    nav .display_none {
+        display: none;
+    }
+
+    nav #profile {
+        left: 57vw;
+        position: relative;
+    }
+
+    nav #profile img {
+        width: 6vw;
+    }
+
+    nav #home_none {
+        display: none;
+    }
+
+    nav {
+        padding: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    #logo {
+        width: 12vw;
+        padding-right: 0vw;
+        padding-left: 0px;
+    }
+
+    .hamburger {
+        width: 8vw;
+        display: block;
+        padding-right: 0vw;
+        padding-left: 0px;
+    }
+
+    nav .container {
+        padding: 0px;
+        width: 100%;
+    }
+
+    nav #profileTable {
+        display: none;
+    }
+
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1024px) {
+    nav #display_none {
+        display: none;
+    }
+
+    nav .display_none {
+        display: none;
+    }
+
+    nav {
+        padding: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    #logo {
+        width: 8vw;
+        padding-right: 0vw;
+        padding-left: 0px;
+    }
+
+    .hamburger {
+        width: 5vw;
+        display: block;
+        padding-right: 0vw;
+        padding-left: 0px;
+    }
+
+    nav #profile {
+        left: 60vw;
+        position: relative;
+    }
+
+    nav #profile img {
+        width: 4vw;
+    }
+}

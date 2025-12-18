@@ -1,0 +1,515 @@
+[
+  {
+    "category": "H&M",
+    "about": "Men Oversized Typography Print T-Shirt",
+    "price": "699",
+    "mrp": "1499",
+    "discount": "53%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/29978200/2024/7/1/78da64e0-fe08-4732-845b-0c0f256de25c1719816914826-Arrow-Sport-Men-Tshirts-441719816914531-1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29978200/2024/7/1/78da64e0-fe08-4732-845b-0c0f256de25c1719816914826-Arrow-Sport-Men-Tshirts-441719816914531-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29978200/2024/7/1/0ad0dd89-ff64-46f7-887e-fd74af0a70291719816914815-Arrow-Sport-Men-Tshirts-441719816914531-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29978200/2024/7/1/c07227a7-34a3-41a6-807b-7e1cce7bce431719816914806-Arrow-Sport-Men-Tshirts-441719816914531-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29978200/2024/7/1/fc126632-845d-4fd7-bced-d4df63d0d6c21719816914796-Arrow-Sport-Men-Tshirts-441719816914531-4.jpg"
+    ],
+    "productDetails": {
+      "color": "White",
+      "fit": "Oversized",
+      "neck": "Crew neck",
+      "sleeves": "Short sleeves",
+      "fabric": "Pure cotton",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed",
+      "modelInfo": "Model height 6'0 wearing size L"
+    }
+  },
+
+  {
+    "category": "Roadster",
+    "about": "Men Solid Denim Jacket",
+    "price": "1799",
+    "mrp": "3599",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24859064/2023/9/9/705d129e-f582-4267-9f85-107aa82b17a51694282915900JackJonesBrandLogoPrintedCottonT-shirt1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24859064/2023/9/9/705d129e-f582-4267-9f85-107aa82b17a51694282915900JackJonesBrandLogoPrintedCottonT-shirt1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24859064/2023/9/9/a58399b5-da39-4c0e-8f83-9d4b7567c2111694282915917JackJonesBrandLogoPrintedCottonT-shirt2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24859064/2023/9/9/e582db62-5b2b-4025-a5ea-a2c7aebdf46b1694282915935JackJonesBrandLogoPrintedCottonT-shirt3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24859064/2023/9/9/d6a5d739-9ea9-4c99-88f6-190fc9f2566b1694282915952JackJonesBrandLogoPrintedCottonT-shirt4.jpg"
+    ],
+    "productDetails": {
+      "color": "Blue",
+      "fit": "Regular",
+      "neck": "Spread collar",
+      "sleeves": "Long sleeves",
+      "fabric": "Denim cotton",
+      "length": "Hip length"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 6'2 wearing size M"
+    }
+  },
+
+  {
+    "category": "Levi's",
+    "about": "Men 511 Slim Fit Stretch Jeans",
+    "price": "2599",
+    "mrp": "4399",
+    "discount": "41%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/33353185/2025/7/23/28d65852-2fe9-4a61-834b-0452decbd1ee1753280025737-Pepe-Jeans-Men-Crew-Neck-Relaxed-Fit-Lounge-Tshirt-233175328-1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/33353185/2025/7/23/28d65852-2fe9-4a61-834b-0452decbd1ee1753280025737-Pepe-Jeans-Men-Crew-Neck-Relaxed-Fit-Lounge-Tshirt-233175328-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/33353185/2025/7/23/e932a17e-65d3-44f4-b677-a2dbacb453851753280025721-Pepe-Jeans-Men-Crew-Neck-Relaxed-Fit-Lounge-Tshirt-233175328-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/33353185/2025/7/23/02aad456-eb48-4acf-abf2-33e8da875af51753280025707-Pepe-Jeans-Men-Crew-Neck-Relaxed-Fit-Lounge-Tshirt-233175328-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/33353185/2025/7/23/c9aaec97-46bb-486e-881c-b008f9632d0c1753280025692-Pepe-Jeans-Men-Crew-Neck-Relaxed-Fit-Lounge-Tshirt-233175328-4.jpg"
+    ],
+    "productDetails": {
+      "color": "Dark Blue",
+      "fit": "Slim",
+      "neck": "NA",
+      "sleeves": "NA",
+      "fabric": "Cotton blend with stretch",
+      "length": "Full length"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "modelInfo": "Model height 6'0 wearing size 32"
+    }
+  },
+
+  {
+    "category": "Jack & Jones",
+    "about": "Men Checked Casual Shirt",
+    "price": "1299",
+    "mrp": "2599",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/30855447/2025/1/21/f8749db5-f0b7-44ec-895f-18457912c3811737461394337-TRYBUYIN-Men-Standard-Spread-Collar-Buffalo-Checked-Cotton-C-1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30855447/2025/1/21/f8749db5-f0b7-44ec-895f-18457912c3811737461394337-TRYBUYIN-Men-Standard-Spread-Collar-Buffalo-Checked-Cotton-C-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30855447/2025/1/21/7d7fb999-e3ad-4e1c-962b-b5f459a8f37b1737461394322-TRYBUYIN-Men-Standard-Spread-Collar-Buffalo-Checked-Cotton-C-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30855447/2025/1/21/f025ad0b-865b-4ba6-80e2-fc72b882f06f1737461394306-TRYBUYIN-Men-Standard-Spread-Collar-Buffalo-Checked-Cotton-C-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30855447/2025/1/21/22560085-0545-4479-bd50-f974d091a4581737461394291-TRYBUYIN-Men-Standard-Spread-Collar-Buffalo-Checked-Cotton-C-4.jpg"
+    ],
+    "productDetails": {
+      "color": "Red & Black",
+      "fit": "Regular",
+      "neck": "Spread collar",
+      "sleeves": "Long sleeves",
+      "fabric": "Cotton",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 6'1 wearing size M"
+    }
+  },
+
+  {
+    "category": "Puma",
+    "about": "Men Solid Sports Jacket",
+    "price": "2199",
+    "mrp": "4499",
+    "discount": "51%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14468572/2025/7/11/d495e83a-37aa-4b96-a735-1271bdcaa1161752230303780-FORCLAZ-By-Decathlon-Men-Solid-Black-Upto--0-Degrees-Non-Hoo-1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14468572/2025/7/11/d495e83a-37aa-4b96-a735-1271bdcaa1161752230303780-FORCLAZ-By-Decathlon-Men-Solid-Black-Upto--0-Degrees-Non-Hoo-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14468572/2025/7/11/dc8670e4-b0e6-4f7c-a87c-e9f0c5ed51241752230303759-FORCLAZ-By-Decathlon-Men-Solid-Black-Upto--0-Degrees-Non-Hoo-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14468572/2025/7/11/367e6f6d-70a9-479c-bd45-8da233d965781752230303738-FORCLAZ-By-Decathlon-Men-Solid-Black-Upto--0-Degrees-Non-Hoo-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14468572/2025/7/11/36558cd5-3a94-4012-ad9f-99019560fe201752230303716-FORCLAZ-By-Decathlon-Men-Solid-Black-Upto--0-Degrees-Non-Hoo-4.jpg"
+    ],
+    "productDetails": {
+      "color": "Black",
+      "fit": "Regular",
+      "neck": "High neck",
+      "sleeves": "Long sleeves",
+      "fabric": "Polyester",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 6'0 wearing size L"
+    }
+  },
+
+  {
+    "category": "HRX",
+    "about": "Men Training Rapid-Dry T-Shirt",
+    "price": "499",
+    "mrp": "999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/2/0EPjOI21_e95d58c2a48d4ee098f51ed089f4b068.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/2/0EPjOI21_e95d58c2a48d4ee098f51ed089f4b068.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/2/pbaz6hoe_cf1435f4ce4841c6915b9c8a7046e524.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/2/GuLRmiZR_e7784f8542604f09b00302dc1a1b9777.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/2/rzcnO5Lj_1f3dd203bba44afc8f64d92219a0d15b.jpg"
+    ],
+    "productDetails": {
+      "color": "Grey",
+      "fit": "Regular",
+      "neck": "Round neck",
+      "sleeves": "Short sleeves",
+      "fabric": "Polyester dry-fit",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 5'11 wearing size M"
+    }
+  },
+
+  {
+    "category": "U.S. Polo Assn.",
+    "about": "Men Striped Polo Collar T-Shirt",
+    "price": "899",
+    "mrp": "1999",
+    "discount": "55%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/17/GEutyGsB_d0591b3f89fa46e494517e4f334ec2d0.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/NOVEMBER/17/GEutyGsB_d0591b3f89fa46e494517e4f334ec2d0.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/NOVEMBER/17/ojOSwLNR_4bc2c269cb71415aad01c3ef90ec4893.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/NOVEMBER/17/UiK1svCy_66e304ac6fa54cc3bde8999b71ee90be.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/NOVEMBER/17/EbQdq0x7_60597fd73b62497dbd6ed68e669d30e2.jpg"
+    ],
+    "productDetails": {
+      "color": "Navy Blue",
+      "fit": "Regular",
+      "neck": "Polo",
+      "sleeves": "Short sleeves",
+      "fabric": "Cotton",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 6'1 wearing size L"
+    }
+  },
+
+  {
+    "category": "H&M",
+    "about": "Men Relaxed Fit Sweatshirt",
+    "price": "1199",
+    "mrp": "2499",
+    "discount": "52%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/1/ehUQIJl0_f4d26ecc33e3493f802b0edcdf06b232.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/1/ehUQIJl0_f4d26ecc33e3493f802b0edcdf06b232.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/1/LiNx5ATM_c9909cd0338447849af430362e5592d4.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/1/Z0Foeb0p_0633732a72e7444dae7efd580717ef79.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/1/FaQLL7Ld_6e93e793d7844ce8a6efd011fb063a00.jpg"
+    ],
+    "productDetails": {
+      "color": "Beige",
+      "fit": "Relaxed",
+      "neck": "Round neck",
+      "sleeves": "Long sleeves",
+      "fabric": "Cotton fleece",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed",
+      "modelInfo": "Model height 6'0 wearing size M"
+    }
+  },
+
+  {
+    "category": "Wrogn",
+    "about": "Men Slim Fit Casual Shirt",
+    "price": "999",
+    "mrp": "1999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/24/6dFipiC9_0c466c5fbd8c4af7a85e6b93a101484e.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/24/6dFipiC9_0c466c5fbd8c4af7a85e6b93a101484e.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/24/KB1oqXh8_f87dc56f6f2649529ae1333054efbddc.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/24/gvuPrGmT_cee76e2ccafa43a494640188b24bd520.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/24/ZtnkDH6j_246ea8b089a449d8a852b058b67bff19.jpg"
+    ],
+    "productDetails": {
+      "color": "Black",
+      "fit": "Slim",
+      "neck": "Spread collar",
+      "sleeves": "Long sleeves",
+      "fabric": "Cotton",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "modelInfo": "Model height 5'10 wearing size M"
+    }
+  },
+
+  {
+    "category": "Allen Solly",
+    "about": "Men Printed Casual Shirt",
+    "price": "1399",
+    "mrp": "2799",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JUNE/24/rRrO7q2V_43958abb0417464fa3ad4b1357f22c60.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/24/rRrO7q2V_43958abb0417464fa3ad4b1357f22c60.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/24/Sqwinkuj_13d898efc9ff477daea37b734cae19c7.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/24/qio6JWfe_8352507ef7174d7e923d46ce3aaf0709.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/24/42PBBUP8_dae93722d38a4537a5e7dbf5901e9dc9.jpg"
+    ],
+    "productDetails": {
+      "color": "Light Blue",
+      "fit": "Regular",
+      "neck": "Spread collar",
+      "sleeves": "Short sleeves",
+      "fabric": "Cotton blend",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 6'1 wearing size L"
+    }
+  },
+
+  {
+    "category": "Adidas",
+    "about": "Men Sports Track Pants",
+    "price": "1599",
+    "mrp": "3299",
+    "discount": "52%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/30/2o0zPirG_99aab06e8e6e4015b82ff4aeee3ed2cf.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/30/2o0zPirG_99aab06e8e6e4015b82ff4aeee3ed2cf.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/30/YUm4uFNn_d1c40322ca7746e9a355e5fedf0f4bdd.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/30/kTqxLv6T_51a7b11101b049b48f1445cb6a79fe24.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/30/cNoxEzNy_43451e1226c44870b25c6581c049e10c.jpg"
+    ],
+    "productDetails": {
+      "color": "Grey",
+      "fit": "Slim",
+      "neck": "NA",
+      "sleeves": "NA",
+      "fabric": "Polyester",
+      "length": "Full length"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "modelInfo": "Model height 6'1 wearing size L"
+    }
+  },
+
+  {
+    "category": "Rare Rabbit",
+    "about": "Men Printed Casual Shirt",
+    "price": "1499",
+    "mrp": "2999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JUNE/26/TJfptFk4_e7bcab40693f4b89a656744e58d30873.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/26/TJfptFk4_e7bcab40693f4b89a656744e58d30873.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/26/HlIYlKOp_90d75f7d474243168a5df9958cfe3ef6.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/26/sNvjzBq4_ce36741b07ac4d319086f0266a710c38.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/26/2JXBh7C3_4a6e48d03ef9475e904869495174203c.jpg"
+    ],
+    "productDetails": {
+      "color": "Olive Green",
+      "fit": "Slim",
+      "neck": "Spread collar",
+      "sleeves": "Long sleeves",
+      "fabric": "Viscose",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "modelInfo": "Model height 6'0 wearing size M"
+    }
+  },
+
+
+  {
+    "category": "Benetton",
+    "about": "Men Solid Sweatshirt",
+    "price": "1699",
+    "mrp": "3399",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24937462/2024/10/17/22fa916f-826e-4e17-b73e-f40ce90b11791729150821914-NOBERO-Men-Zipper-Hooded-Sweatshirt-1201729150821290-1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24937462/2024/10/17/22fa916f-826e-4e17-b73e-f40ce90b11791729150821914-NOBERO-Men-Zipper-Hooded-Sweatshirt-1201729150821290-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24937462/2024/10/17/944a13b3-c64b-4eaf-a2e2-5e2e9bab16ef1729150821886-NOBERO-Men-Zipper-Hooded-Sweatshirt-1201729150821290-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24937462/2024/10/17/c75afae6-8e88-434f-aec9-81d4476c4b461729150821858-NOBERO-Men-Zipper-Hooded-Sweatshirt-1201729150821290-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24937462/2024/10/17/a3639ec7-1338-40fd-bd46-7822acc75ff01729150821830-NOBERO-Men-Zipper-Hooded-Sweatshirt-1201729150821290-4.jpg"
+    ],
+    "productDetails": {
+      "color": "Maroon",
+      "fit": "Regular",
+      "neck": "Crew neck",
+      "sleeves": "Long sleeves",
+      "fabric": "Cotton fleece",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 6'1 wearing size L"
+    }
+  },
+
+  {
+    "category": "Tommy Hilfiger",
+    "about": "Men Logo Print T-Shirt",
+    "price": "1899",
+    "mrp": "3799",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/27853388/2024/2/25/1130584b-9158-4880-bc4d-281422e935821708864889509JackJonesMenTypographyPrintedPocketsSlimFitT-shirt1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27853388/2024/2/25/1130584b-9158-4880-bc4d-281422e935821708864889509JackJonesMenTypographyPrintedPocketsSlimFitT-shirt1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27853388/2024/2/25/702ccac4-587f-434b-95f0-6c88d7c3c4ae1708864889528JackJonesMenTypographyPrintedPocketsSlimFitT-shirt2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27853388/2024/2/25/fdc78c32-ee46-4e90-ac02-0c15f598ef2a1708864889534JackJonesMenTypographyPrintedPocketsSlimFitT-shirt3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27853388/2024/2/25/93482de2-fb54-4420-adb7-0aeea09c3a7f1708864889522JackJonesMenTypographyPrintedPocketsSlimFitT-shirt4.jpg"
+    ],
+    "productDetails": {
+      "color": "Navy Blue",
+      "fit": "Regular",
+      "neck": "Crew neck",
+      "sleeves": "Short sleeves",
+      "fabric": "Cotton",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 6'2 wearing size L"
+    }
+  },
+
+  {
+    "category": "H&M",
+    "about": "Men Relaxed Fit Cargo Joggers",
+    "price": "1499",
+    "mrp": "2999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/2/vzEtS7JC_4e7abae1c9334ebc9a2d9793fff5446c.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/2/vzEtS7JC_4e7abae1c9334ebc9a2d9793fff5446c.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/2/jQL7wfmx_3098aa9688db43599c101da32b6d4f4d.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/2/hWVnIzx8_23896f0a7fee410d8584eeb5f2a7dbd8.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/2/jCI0qQgX_c24b942e78c24e9f95e2cbad8c6e8121.jpg"
+    ],
+    "productDetails": {
+      "color": "Khaki",
+      "fit": "Relaxed",
+      "neck": "NA",
+      "sleeves": "NA",
+      "fabric": "Cotton blend",
+      "length": "Full length"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed",
+      "modelInfo": "Model height 6'0 wearing size M"
+    }
+  },
+
+  {
+    "category": "Roadster",
+    "about": "Men Slim Fit Biker Jacket",
+    "price": "2499",
+    "mrp": "4999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/APRIL/24/thBRPVpq_af053bb5c1554896a181e12d037f886a.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/APRIL/24/thBRPVpq_af053bb5c1554896a181e12d037f886a.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/APRIL/24/YVCUk1bc_59340b474a5941cd9885853b8f51fe8e.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/APRIL/24/1JVZY6Ua_7a3dce04e41641f9ae466cbc9faaad92.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/APRIL/24/YVCUk1bc_59340b474a5941cd9885853b8f51fe8e.jpg"
+    ],
+    "productDetails": {
+      "color": "Black",
+      "fit": "Slim",
+      "neck": "Stand collar",
+      "sleeves": "Long sleeves",
+      "fabric": "Faux leather",
+      "length": "Hip length"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "modelInfo": "Model height 6'1 wearing size L"
+    }
+  },
+
+  {
+    "category": "Flying Machine",
+    "about": "Men Slim Fit Casual Shirt",
+    "price": "799",
+    "mrp": "1599",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/30083639/2024/6/30/aa76f2bb-28df-406d-b265-ad4c32be44471719693367459HIGHLANDERMenSlimFitOpaqueCasualShirt1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30083639/2024/6/30/aa76f2bb-28df-406d-b265-ad4c32be44471719693367459HIGHLANDERMenSlimFitOpaqueCasualShirt1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30083639/2024/6/30/96064d94-e536-4d1c-b6f4-a1edd47d9fda1719693367598HIGHLANDERMenSlimFitOpaqueCasualShirt2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30083639/2024/6/30/b6274173-16df-4887-b81f-6e8935f47a631719693367551HIGHLANDERMenSlimFitOpaqueCasualShirt3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30083639/2024/6/30/8d226007-e7d8-4f6e-aee6-a71d59ad483f1719693367527HIGHLANDERMenSlimFitOpaqueCasualShirt4.jpg"
+    ],
+    "productDetails": {
+      "color": "White",
+      "fit": "Slim",
+      "neck": "Spread collar",
+      "sleeves": "Short sleeves",
+      "fabric": "Cotton",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "modelInfo": "Model height 6'0 wearing size M"
+    }
+  },
+
+  {
+    "category": "Campus Sutra",
+    "about": "Men Colorblocked Hooded Sweatshirt",
+    "price": "999",
+    "mrp": "1999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24132308/2023/9/22/f8db93b3-833d-4cff-a061-e04fdb43cb6e1695371483672-United-Colors-of-Benetton-Men-Sweatshirts-9921695371483256-1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24132308/2023/9/22/f8db93b3-833d-4cff-a061-e04fdb43cb6e1695371483672-United-Colors-of-Benetton-Men-Sweatshirts-9921695371483256-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24132308/2023/9/22/d659d316-8df3-49db-ae96-b68c724edb821695371483640-United-Colors-of-Benetton-Men-Sweatshirts-9921695371483256-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24132308/2023/9/22/6a3d53c5-91dd-413c-b7c7-9764247fd2081695371483607-United-Colors-of-Benetton-Men-Sweatshirts-9921695371483256-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24132308/2023/9/22/d2a431ce-ac79-4235-b087-aaafab38f8bb1695371483575-United-Colors-of-Benetton-Men-Sweatshirts-9921695371483256-4.jpg"
+    ],
+    "productDetails": {
+      "color": "Blue & Grey",
+      "fit": "Regular",
+      "neck": "Hooded",
+      "sleeves": "Long sleeves",
+      "fabric": "Cotton blend",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 6'0 wearing size L"
+    }
+  },
+
+  {
+    "category": "H&M",
+    "about": "Men Loose Fit Graphic Hoodie",
+    "price": "1699",
+    "mrp": "3499",
+    "discount": "51%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2024/OCTOBER/22/I3TP36go_62a481332e2a45628a0acfcff703f63c.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/22/I3TP36go_62a481332e2a45628a0acfcff703f63c.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/22/g2ryeaD3_74ebf9f6dfe54fdab3b24c6d8aa08eb2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/22/QneWBoiC_e98f7a6ceecf48238967d356f426a26f.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/22/N7vnMbin_f8967bcf3ab440f8b794b19e63cb780a.jpg"
+    ],
+    "productDetails": {
+      "color": "Black",
+      "fit": "Loose",
+      "neck": "Hooded",
+      "sleeves": "Long sleeves",
+      "fabric": "Cotton blend fleece",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Loose",
+      "modelInfo": "Model height 6'0 wearing size L"
+    }
+  }
+]

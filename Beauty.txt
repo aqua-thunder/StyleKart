@@ -1,0 +1,419 @@
+[
+  {
+    "category": "Lipstick",
+    "about": "Lakme 9 to 5 Matte Lipstick - Nude Pink",
+    "price": "650",
+    "mrp": "1300",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/24/pbeHdU3u_ffc96dacc22340d3b1fecaab5616232a.jpg",
+    "images": ["https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/FEBRUARY/24/pbeHdU3u_ffc96dacc22340d3b1fecaab5616232a.jpg", 
+    "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/FEBRUARY/24/HGj2GseY_3fde5573cb17467a956766af803c653d.jpg",
+     "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/FEBRUARY/24/ZmAlc5bd_0ae9a73963df45fe8f58e75f3232d829.jpg", 
+     "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/FEBRUARY/24/pGsUhoEf_f4a17d95e38e44fb997b0b481b513939.jpg"
+     ],
+    "productDetails": {
+      "Colour Shade Name": "Nude Pink",
+      "Coverage": "Full Coverage",
+      "Finish": "Matte",
+      "Net Quantity": "3.5",
+      "Net Quantity Unit": "g",
+      "Sustainable": "Regular"
+    }
+  },
+  {
+    "category": "Lip Gloss",
+    "about": "Maybelline Lifter Gloss - Moon",
+    "price": "599",
+    "mrp": "1199",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JULY/25/Yg9W2Tog_93fd976e4d7740d7886cfc40825f3bb2.jpg",
+    "images": ["https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/25/Yg9W2Tog_93fd976e4d7740d7886cfc40825f3bb2.jpg",
+    "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/25/Hc6e4PyO_b692d595af4d41758fca0968e65504cb.jpg", 
+    "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/25/wmzzjfe0_cd8d50cbdf1e41698f3523ede5263cae.jpg", 
+    "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/25/yare2O5w_463779f0a74e4d63a509de94bc76a51f.jpg"
+    ],
+    "productDetails": {
+      "Colour Shade Name": "Clear",
+      "Coverage": "Sheer Coverage",
+      "Finish": "Glossy",
+      "Net Quantity": "5.4",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Regular"
+    }
+  },
+  {
+    "category": "Cleaners",
+    "about": "Cetaphil Gentle Skin Cleanser",
+    "price": "349",
+    "mrp": "699",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19210764/2025/3/31/4ca1e19c-623d-443b-b3dc-2090b8654c871743400609549-DOT--KEY-Watermelon-SuperGlow-Facial-Gel-Cleanser-with-Vitam-1.jpg",
+    "images": ["https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19210764/2025/3/31/4ca1e19c-623d-443b-b3dc-2090b8654c871743400609549-DOT--KEY-Watermelon-SuperGlow-Facial-Gel-Cleanser-with-Vitam-1.jpg",
+    "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19210764/2025/3/31/6300a96a-b18e-40b0-a23a-5a5f965c25c31743400609513-DOT--KEY-Watermelon-SuperGlow-Facial-Gel-Cleanser-with-Vitam-2.jpg", 
+    "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5745608584001/47d6aaa3-f7d4-4930-8d63-9a77187cf6fd/main/960x1280/9s674ms/match/image.jpg", 
+    "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19210764/2025/3/31/263454de-7efc-429a-b992-10a6e71569871743400609479-DOT--KEY-Watermelon-SuperGlow-Facial-Gel-Cleanser-with-Vitam-3.jpg"
+    ],
+    "productDetails": {
+      "Skin Type": "All Skin Types",
+      "Usage": "Daily Use",
+      "Texture": "Liquid",
+      "Net Quantity": "125",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Dermatologist Tested"
+    }
+  },
+  {
+    "category": "Kajal",
+    "about": "New York Smudge Proof Colossal Kajal with Aloe Vera - Deep Black - 0.35g",
+    "price": "225",
+    "mrp": "450",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1963241/2024/1/8/da5ed3c4-2046-46a2-a8cd-8418ac9937631704709560804-Maybelline-New-York-Smudge-Proof-Colossal-Kajal-with-Aloe-Ve-1.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1963241/2024/1/8/da5ed3c4-2046-46a2-a8cd-8418ac9937631704709560804-Maybelline-New-York-Smudge-Proof-Colossal-Kajal-with-Aloe-Ve-1.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1963241/2024/1/8/daf6ed4d-69c8-4b9c-90f0-4729658dd2971704709560797-Maybelline-New-York-Smudge-Proof-Colossal-Kajal-with-Aloe-Ve-2.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1963241/2024/1/8/2a209ced-8fe8-447a-bbc0-4b81925922091704709560782-Maybelline-New-York-Smudge-Proof-Colossal-Kajal-with-Aloe-Ve-4.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1963241/2024/1/8/a947007b-2a54-4546-a112-c2ef14f533ea1704709560776-Maybelline-New-York-Smudge-Proof-Colossal-Kajal-with-Aloe-Ve-5.jpg"
+    ],
+    "productDetails": {
+      "Colour Shade Name": "Deep Black",
+      "Finish": "Matte",
+      "Smudge Proof": "Yes",
+      "Net Quantity": "0.35",
+      "Net Quantity Unit": "g",
+      "Sustainable": "Regular"
+    }
+  },
+  {
+    "category": "Eyeliner",
+    "about": "Maybelline Colossal Liquid Eyeliner",
+    "price": "249",
+    "mrp": "499",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24715358/2023/8/29/e3c1dd03-a37a-4ced-aa67-decc81beeef01693309238538Eyeliner1.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24715358/2023/8/29/e3c1dd03-a37a-4ced-aa67-decc81beeef01693309238538Eyeliner1.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24715358/2023/8/29/5d000c9c-b50a-41f7-b8ee-88ca7f5b19b41693309238587Eyeliner2.jpg", 
+        "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5745608584001/80f9662e-f291-4685-8571-afebb7795c23/main/1280x720/9s77ms/match/image.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24715358/2023/8/29/950e5d6e-722e-4aa6-a486-ee8241677cfe1693309238559Eyeliner4.jpg"
+    ],
+    "productDetails": {
+      "Colour Shade Name": "Black",
+      "Finish": "Matte",
+      "Waterproof": "Yes",
+      "Net Quantity": "3",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Regular"
+    }
+  },
+  {
+    "category": "Hair Oil",
+    "about": "Indulekha Bringha Hair Oil",
+    "price": "1175",
+    "mrp": "2350",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/5/tqYyadKz_9c53e55820624b9d8fb18b8771326c8c.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/5/tqYyadKz_9c53e55820624b9d8fb18b8771326c8c.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/5/LtSGT18J_6ddaf09959b34a1bae53009575a879bf.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/5/gUD6FjH3_9478fcb4350447228adae3c53b20efab.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/5/PG8aC3AB_f9dafd1d70f44f7899b06fe070068731.jpg"
+    ],
+    "productDetails": {
+      "Hair Type": "All Hair Types",
+      "Concern": "Hair Fall Control",
+      "Texture": "Oil",
+      "Net Quantity": "100",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Ayurvedic"
+    }
+  },
+  {
+    "category": "Hair Gel",
+    "about": "Set Wet Styling Hair Gel - Cool Hold",
+    "price": "149",
+    "mrp": "299",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/28680346/2025/7/9/83bc70c8-0605-4323-92ea-035a6f3540dd1752070853916-Fix-My-Curls-Defining-Hair-Gel-For-Curly--Wavy-Hair---50g-28-1.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28680346/2025/7/9/83bc70c8-0605-4323-92ea-035a6f3540dd1752070853916-Fix-My-Curls-Defining-Hair-Gel-For-Curly--Wavy-Hair---50g-28-1.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28680346/2025/7/9/94f5a1f7-b624-46e0-9a5f-461732032bad1752070853895-Fix-My-Curls-Defining-Hair-Gel-For-Curly--Wavy-Hair---50g-28-2.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28680346/2025/7/9/e94b73a4-a9a7-4377-aae7-61f50de90abe1752070853873-Fix-My-Curls-Defining-Hair-Gel-For-Curly--Wavy-Hair---50g-28-3.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28680346/2025/7/9/c1a9c42b-5faf-470e-bdbf-fb2f6fa4fcee1752070853852-Fix-My-Curls-Defining-Hair-Gel-For-Curly--Wavy-Hair---50g-28-4.jpg"
+    ],
+    "productDetails": {
+      "Hold": "Strong Hold",
+      "Finish": "Wet Look",
+      "Hair Type": "All Hair Types",
+      "Net Quantity": "100",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Regular"
+    }
+  },
+  {
+    "category": "Body Scrub",
+    "about": "MCaffeine Coffee Body Scrub",
+    "price": "499",
+    "mrp": "999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/29139220/2024/4/24/f18b2bdd-76db-4069-80c7-0533244b50fd1713951398725BlueberryBreezeBodyScrubforGlowingSkinExfoliatesRemovesTan-11.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29139220/2024/4/24/f18b2bdd-76db-4069-80c7-0533244b50fd1713951398725BlueberryBreezeBodyScrubforGlowingSkinExfoliatesRemovesTan-11.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29139220/2024/4/24/0136b3a1-192d-4f38-a441-d6dc9e016bb71713951398801BlueberryBreezeBodyScrubforGlowingSkinExfoliatesRemovesTan-12.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29139220/2024/4/24/f35995c6-6cae-4c9c-a46c-823444ffc0571713951398841BlueberryBreezeBodyScrubforGlowingSkinExfoliatesRemovesTan-13.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29139220/2024/4/24/1b4d44ac-4d73-4761-90ab-fbf3ee0b0ac01713951398821BlueberryBreezeBodyScrubforGlowingSkinExfoliatesRemovesTan-15.jpg"
+    ],
+    "productDetails": {
+      "Skin Type": "All Skin Types",
+      "Concern": "Exfoliation",
+      "Texture": "Granular",
+      "Net Quantity": "100",
+      "Net Quantity Unit": "g",
+      "Sustainable": "Cruelty-Free"
+    }
+  },
+  {
+    "category": "Nail Polish",
+    "about": "Nykaa Matte Nail Enamel - Berry Plum",
+    "price": "179",
+    "mrp": "359",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/16/Bb5BQORD_b19bb98798db4425b510a7a298d629b5.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/16/Bb5BQORD_b19bb98798db4425b510a7a298d629b5.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/16/bVkzmop1_83645d3b781644c3823c5cc235d2f7a1.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/16/prDREadU_208a7b9d54714a9da0f9e04a027931de.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/16/W0lGpAjV_06df4b9139c04540acd4ff7e2f296150.jpg"
+    ],
+    "productDetails": {
+      "Colour Shade Name": "Berry Plum",
+      "Finish": "Matte",
+      "Chip Resistant": "Yes",
+      "Net Quantity": "8",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Regular"
+    }
+  },
+  {
+    "category": "Compact",
+    "about": "Maybelline Fit Me Compact - Natural",
+    "price": "249",
+    "mrp": "499",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10924310/2024/2/23/9032183f-3617-4f6a-b0cc-171cf878e00b1708672068574-FACES-CANADA-Weightless-Stay-Matte-Compact-SPF20-with-Vitami-1.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10924310/2024/2/23/9032183f-3617-4f6a-b0cc-171cf878e00b1708672068574-FACES-CANADA-Weightless-Stay-Matte-Compact-SPF20-with-Vitami-1.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10924310/2024/2/23/7e31778d-c527-41dd-8174-06a7308cb63d1708672068566-FACES-CANADA-Weightless-Stay-Matte-Compact-SPF20-with-Vitami-2.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10924310/2024/2/23/ecbf37e1-2f73-4ff2-8230-2554b76d9fa81708672068559-FACES-CANADA-Weightless-Stay-Matte-Compact-SPF20-with-Vitami-3.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10924310/2024/2/23/b8001916-e335-4e2b-aad3-80e76055c9db1708672068552-FACES-CANADA-Weightless-Stay-Matte-Compact-SPF20-with-Vitami-4.jpg"
+    ],
+    "productDetails": {
+      "Colour Shade Name": "Natural",
+      "Coverage": "Medium Coverage",
+      "Finish": "Matte",
+      "Net Quantity": "8",
+      "Net Quantity Unit": "g",
+      "Sustainable": "Regular"
+    }
+  },
+
+  {
+    "category": "Hair Dryer",
+    "about": "Philips Compact Hair Dryer",
+    "price": "1099",
+    "mrp": "2199",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/28/xggo7lWU_9f54c5c00b47410b94e3a2ae603e0331.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/28/xggo7lWU_9f54c5c00b47410b94e3a2ae603e0331.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/28/dzKRJHGy_ce7c8312fe5841deb1d1ae7613d5fdf4.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/28/iqtTtAvh_9ebf3dbef9a946109b8cda31a277f98f.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/28/Q8vj7YCC_199583ab587a4d82a3885c44f62c35e0.jpg"
+    ],
+    "productDetails": {
+      "Power": "1200W",
+      "Heat Settings": "2",
+      "Cool Shot": "Yes",
+      "Net Quantity": "1",
+      "Net Quantity Unit": "Unit",
+      "Sustainable": "Energy Efficient"
+    }
+  },
+  {
+    "category": "Shampoo",
+    "about": "Mamaearth Onion Shampoo",
+    "price": "349",
+    "mrp": "699",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/20/ddxL3TVc_5c79276b77a44931bbfbc5cac7f99992.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/20/ddxL3TVc_5c79276b77a44931bbfbc5cac7f99992.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/20/3DjxXxkX_a4b078ed5c2049db8fd964623843d594.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/20/rMgu7oA7_16ceab75f7a646e9832463a38daed50f.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/20/kn7Kz9I1_0e7518f35a724a8ca2e58f1069018775.jpg"
+    ],
+    "productDetails": {
+      "Hair Type": "All Hair Types",
+      "Concern": "Hair Fall Control",
+      "Texture": "Liquid",
+      "Net Quantity": "250",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Sulfate Free"
+    }
+  },
+  {
+    "category": "Face Wash",
+    "about": "Simple Refreshing Face Wash",
+    "price": "199",
+    "mrp": "399",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/22/jsSDPt6Q_b16e04c3ecb74a86a40a8490f6da195d.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/22/jsSDPt6Q_b16e04c3ecb74a86a40a8490f6da195d.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/22/xRCCjcn9_6d35d802c0114e2186c1b1a8b5b1c5d7.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/22/0V8wMh8Q_01938a746f6e4630b660e22a3974929b.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/22/RwBiqY1E_ad511cd5feb2460cb11967819aafd293.jpg"
+    ],
+    "productDetails": {
+      "Skin Type": "Sensitive Skin",
+      "Concern": "Cleansing",
+      "Texture": "Gel",
+      "Net Quantity": "150",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Soap Free"
+    }
+  },
+  {
+    "category": "Foundation",
+    "about": "Maybelline Fit Me Liquid Foundation - Warm Nude",
+    "price": "549",
+    "mrp": "1099",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/1/pNVh04my_948086fb66034b40bab4836ac11e8357.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/1/pNVh04my_948086fb66034b40bab4836ac11e8357.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/1/K1g8BlWl_8ec2950aaa23469e99aefd304a131e3e.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/1/wmPwTc5P_eab722b9579b407da33b9eb7907f45ea.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/1/qrLxVzis_4e838e1de9a242d08526ac2541ee349f.jpg"
+    ],
+    "productDetails": {
+      "Colour Shade Name": "Warm Nude",
+      "Coverage": "Medium Coverage",
+      "Finish": "Natural",
+      "Net Quantity": "30",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Regular"
+    }
+  },
+
+  {
+    "category": "Lipstick",
+    "about": "Swiss Beauty Creamy Matte Lipstick - Mocha",
+    "price": "349",
+    "mrp": "699",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2024/SEPTEMBER/13/17buQ6gj_da13ab27e7fc47b4885378ab09e889a8.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/SEPTEMBER/13/17buQ6gj_da13ab27e7fc47b4885378ab09e889a8.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/SEPTEMBER/13/KKqK1AuK_282857f950ad41e7819eeedc4c6ef25f.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/SEPTEMBER/13/kyAYP3hp_0d9e31fba664497cabc5a8116705cf10.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/SEPTEMBER/13/Nfwu9rls_e2b8db0d90bb472ebded09b56488b256.jpg"
+    ],
+    "productDetails": {
+      "Colour Shade Name": "Mocha",
+      "Coverage": "Full Coverage",
+      "Finish": "Creamy Matte",
+      "Net Quantity": "3.5",
+      "Net Quantity Unit": "g",
+      "Sustainable": "Regular"
+    }
+  },
+  {
+    "category": "Lip Gloss",
+    "about": "Swiss Beauty Clear Shine Lip Gloss",
+    "price": "249",
+    "mrp": "499",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/30410873/2024/10/17/bf0f2737-4cb5-4d98-bb72-4b61687343461729146302328-MARS-Candylicious-Coloured-Lip-Gloss---CHERRY-COLA---08-3941-1.jpg",
+    "images":[
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30410873/2024/10/17/bf0f2737-4cb5-4d98-bb72-4b61687343461729146302328-MARS-Candylicious-Coloured-Lip-Gloss---CHERRY-COLA---08-3941-1.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30410873/2024/10/17/8eaa6956-485c-4a37-86d1-5f408d4067fc1729146302300-MARS-Candylicious-Coloured-Lip-Gloss---CHERRY-COLA---08-3941-2.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30410873/2024/10/17/3d7ecba0-5d7e-427f-93e5-e7e31b09c5ad1729146302273-MARS-Candylicious-Coloured-Lip-Gloss---CHERRY-COLA---08-3941-3.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30410873/2024/10/17/34eae84d-980a-4326-8afa-84134f34d0de1729146302212-MARS-Candylicious-Coloured-Lip-Gloss---CHERRY-COLA---08-3941-5.jpg"
+    ],
+    "productDetails": {
+      "Colour Shade Name": "Clear",
+      "Coverage": "Sheer Coverage",
+      "Finish": "Glossy",
+      "Net Quantity": "4",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Regular"
+    }
+  },
+  {
+    "category": "Body Scrub",
+    "about": "Plum Green Tea Body Scrub",
+    "price": "475",
+    "mrp": "950",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/31192525/2025/2/7/40f72d62-45ba-42da-bddb-26394fb60ce41738930654157-LAVENZA-Freshly-Whipped-Creamy-Sugar-Body-Scrub---200-g-5611-1.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/31192525/2025/2/7/40f72d62-45ba-42da-bddb-26394fb60ce41738930654157-LAVENZA-Freshly-Whipped-Creamy-Sugar-Body-Scrub---200-g-5611-1.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/31192525/2025/2/7/ffa4e42b-d662-46ed-8d9c-429386bf15971738930654121-LAVENZA-Freshly-Whipped-Creamy-Sugar-Body-Scrub---200-g-5611-2.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/31192525/2025/2/7/1a37850c-6fc9-4f46-81f4-41865d1a38611738930654049-LAVENZA-Freshly-Whipped-Creamy-Sugar-Body-Scrub---200-g-5611-4.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/31192525/2025/2/7/255d9b3d-8711-4e9c-98ea-c1d2465a4f4e1738930653978-LAVENZA-Freshly-Whipped-Creamy-Sugar-Body-Scrub---200-g-5611-6.jpg"
+    ],
+    "productDetails": {
+      "Skin Type": "Oily Skin",
+      "Concern": "Exfoliation",
+      "Texture": "Creamy",
+      "Net Quantity": "150",
+      "Net Quantity Unit": "g",
+      "Sustainable": "Vegan"
+    }
+  },
+  {
+    "category": "Shampoo",
+    "about": "WOW Apple Cider Vinegar Shampoo",
+    "price": "449",
+    "mrp": "899",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/DECEMBER/9/T9ApNgIf_93ea93abd6ca4b8083e16f65f3bea99d.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/9/T9ApNgIf_93ea93abd6ca4b8083e16f65f3bea99d.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/9/uClQaODY_d2416ecd45664b57b647a9ce466ab26e.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/9/QzmVgWmk_6dd07ca0bd7c4f80b8a7795ea53008eb.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/DECEMBER/9/Z9vWtsW3_3473e1ab30f64ba494f06c528b182aed.jpg"
+    ],
+    "productDetails": {
+      "Hair Type": "Oily Hair",
+      "Concern": "Scalp Cleansing",
+      "Texture": "Liquid",
+      "Net Quantity": "300",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Paraben Free"
+    }
+  },
+  {
+    "category": "Foundation",
+    "about": "Lakme 9 to 5 Primer + Serum Foundation - Beige",
+    "price": "750",
+    "mrp": "1500",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/29725048/2024/7/17/50cae693-b128-4fc8-8ab1-6eb06df38e151721211482255-Lakme-MakeupSkincare-VitC-Superglow-Skin-Perfecting-Tint-25--1.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29725048/2024/7/17/50cae693-b128-4fc8-8ab1-6eb06df38e151721211482255-Lakme-MakeupSkincare-VitC-Superglow-Skin-Perfecting-Tint-25--1.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29725048/2024/7/17/c2d2d4a7-4ac7-42b1-90eb-1b8278409f291721211482224-Lakme-MakeupSkincare-VitC-Superglow-Skin-Perfecting-Tint-25--2.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29725048/2024/7/17/d35e0320-390e-4e24-bffa-561a061380791721211482192-Lakme-MakeupSkincare-VitC-Superglow-Skin-Perfecting-Tint-25--3.jpg", 
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29725048/2024/7/17/577fe600-1596-46e4-ad19-e45bf0da24851721211482159-Lakme-MakeupSkincare-VitC-Superglow-Skin-Perfecting-Tint-25--4.jpg"
+    ],
+    "productDetails": {
+      "Colour Shade Name": "Beige",
+      "Coverage": "Full Coverage",
+      "Finish": "Matte",
+      "Net Quantity": "30",
+      "Net Quantity Unit": "ml",
+      "Sustainable": "Regular"
+    }
+  }
+]

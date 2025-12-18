@@ -1,0 +1,151 @@
+import React from 'react';
+import Slider from "react-slick";
+import './home.css'
+import { useAuth } from '../store/auth';
+import GoToTop from './GoToTop';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+
+const Home = () => {
+  const { services } = useAuth();
+  const { deals } = useAuth();
+  const { categories } = useAuth();
+
+  const settings = {
+    dots: true,
+    infinite: true,
+    slidesToShow: 5,
+    slidesToScroll: 5,
+    autoplay: true,
+    speed: 1000,
+    autoplaySpeed: 3000,
+    cssEase: "linear",
+
+    responsive: [
+      {
+        breakpoint: 500,   // for <500px
+        settings: {
+          slidesToShow: 4,
+          slidesToScroll: 4,
+        },
+      },
+      {
+        breakpoint: 400,   // for <390px
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3,
+        },
+      },
+    ],
+  };
+  const crousal = {
+    dots: true,
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    speed: 1000,
+    autoplaySpeed: 3000,
+    cssEase: "linear",
+  };
+
+  return (
+    <div className="mt-10 overflow-x-hidden overflow-hidden" id='home'>
+      <div className="slider-container">
+        <Slider {...crousal}>
+          <div className='cursor-pointer'>
+            <img src="../../images/Crousal/img1.webp" alt="" />
+          </div>
+          <div className='cursor-pointer'>
+            <img src="../../images/Crousal/img2.webp" alt="" />
+          </div>
+          <div className='cursor-pointer'>
+            <img src="../../images/Crousal/img3.webp" alt="" />
+          </div>
+          <div className='cursor-pointer'>
+            <img src="../../images/Crousal/img4.webp" alt="" />
+          </div>
+
+        </Slider>
+      </div>
+
+      <div id='RISING-STARS'>
+        <h2 className="text-3xl text-[#3e4152] font-bold px-10 py-[6vw] tracking-[6px]">RISING STARS</h2>
+        {Array.isArray(services) && services.length > 0 ? (
+          <div className="slider-container">
+            <Slider {...settings}>
+              {services.map((service, index) => (
+                <div key={index}>
+                  <div className="bg-white text-center">
+                    {service.imageUrl ? (
+                      <img
+                        src={service.imageUrl}
+                        alt={service.category}
+                        className='cursor-pointer'
+                      />
+                    ) : (
+                      <div className="w-full h-48 bg-gray-200 rounded-md mb-3"></div>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </Slider>
+          </div>
+        ) : (
+          <p className="text-center text-gray-500">No services available</p>
+        )}
+      </div>
+
+      <div id='LUXE-GRAND-REDUCTION-DEALS'>
+        <h2 className="text-3xl text-[#3e4152] font-bold px-10 py-[6vw] tracking-[6px]">LUXE GRAND REDUCTION DEALS</h2>
+        {Array.isArray(deals) && deals.length > 0 ? (
+          <div className="slider-container">
+            <Slider {...settings}>
+              {deals.map((deal, index) => (
+                <div key={index}>
+                  <div className="bg-white text-center">
+                    {deal.imageUrl ? (
+                      <img
+                        src={deal.imageUrl}
+                        alt={deal.category}
+                        className='cursor-pointer w-[24vw] h-[22vw]'
+                      />
+                    ) : (
+                      <div className="w-full h-48 bg-gray-200 rounded-md mb-3"></div>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </Slider>
+          </div>
+        ) : (
+          <p className="text-center text-gray-500">No Deals available</p>
+        )}
+      </div>
+
+      <div id='SHOP-BY-CATEGORY'>
+        <h2 className="text-3xl text-[#3e4152] font-bold px-10 py-[6vw] tracking-[6px]">SHOP-BY-CATEGORY</h2>
+        {
+          Array.isArray(categories) && categories.length > 0 ? (
+            <div className='grid grid-cols-6  px-20 padding' id='grid'>
+              {
+                categories.map((item, index) => {
+                  return (
+                    <div className='cursor-pointer px-5 py-5 padding'  key={index}>
+                      <img src={item.imageUrl} alt="" className='max-h-[50vh]' />
+                    </div>
+                  )
+                })
+              }
+            </div>
+          ) : (
+            <div>No Category Available</div>
+          )
+        }
+      </div>
+      <GoToTop/>
+    </div>
+  );
+};
+
+export default Home;

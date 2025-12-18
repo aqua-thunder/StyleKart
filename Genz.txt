@@ -1,0 +1,521 @@
+[
+  {
+    "category": "H&M",
+    "about": "GenZ Oversized Graphic Print T-Shirt",
+    "price": "799",
+    "mrp": "1599",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350408/img20_cpqinq.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350407/img20.3_yt8c4v.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350407/img20.4_q6zrjy.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350403/img20.2_y9cxf2.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350402/img20.1_l6yc6a.jpg"
+    ],
+    "productDetails": {
+      "color": "Black with multicolor graphic",
+      "fit": "Oversized fit",
+      "neck": "Crew neck",
+      "sleeves": "Short sleeves",
+      "fabric": "Pure cotton jersey",
+      "length": "Regular length"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed",
+      "modelInfo": "Model height 6'1 wearing size M"
+    }
+  },
+  {
+    "category": "Urbanic",
+    "about": "GenZ Baggy High-Waist Denim Jeans",
+    "price": "1490",
+    "mrp": "2990",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350402/img19_qprsvt.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350402/img19.1_pwphbc.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350402/img19.4_lm7unx.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350402/img19.3_spunog.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350401/img19.2_atasll.jpg"
+    ],
+    "productDetails": {
+      "color": "Light Blue",
+      "fit": "Baggy fit",
+      "rise": "High waist",
+      "fabric": "Heavyweight denim",
+      "closure": "Button & zip closure",
+      "pockets": "5-pocket styling"
+    },
+    "sizeAndFit": {
+      "fitType": "Loose",
+      "modelInfo": "Model height 5'9 wearing size 28"
+    }
+  },
+  {
+    "category": "Zara",
+    "about": "GenZ Cropped Hoodie for Women",
+    "price": "1890",
+    "mrp": "3790",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350397/img18_xow1ur.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350397/img18.2_jzaesl.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350397/img18.4_tuunrj.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350397/img18.3_lmxl86.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350396/img18.1_esjlpj.jpg"
+    ],
+    "productDetails": {
+      "color": "Beige",
+      "fit": "Cropped, relaxed fit",
+      "fabric": "Fleece knit",
+      "sleeves": "Long sleeves",
+      "hood": "Attached hood",
+      "closure": "Pullover"
+    },
+    "sizeAndFit": {
+      "fitType": "Comfort",
+      "modelInfo": "Model height 5'8 wearing size S"
+    }
+  },
+  {
+    "category": "Nike",
+    "about": "GenZ Unisex AirFlex Joggers",
+    "price": "2499",
+    "mrp": "4999",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350396/img17_rg2ufu.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350392/img17.4_iraese.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350392/img17.3_exlaje.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350391/img17.2_qg96x5.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350391/img17.1_gahrx1.jpg"
+    ],
+    "productDetails": {
+      "color": "Charcoal Grey",
+      "fit": "Tapered athletic fit",
+      "fabric": "AirFlex breathable polyester",
+      "waistband": "Elastic waistband with drawcord",
+      "pockets": "Side zip pockets",
+      "length": "Full length"
+    },
+    "sizeAndFit": {
+      "fitType": "Athletic",
+      "modelInfo": "Model height 6' wearing size M"
+    }
+  },
+  {
+    "category": "H&M",
+    "about": "GenZ Ribbed Crop Top",
+    "price": "499",
+    "mrp": "999",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350391/img16_uwmxfq.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350391/img16_uwmxfq.webp",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350359/img16.2_syxktz.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350359/img16.1_hunyyd.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350358/img16.3_qru0on.jpg"
+    ],
+    "productDetails": {
+      "color": "Olive Green",
+      "fit": "Slim cropped fit",
+      "fabric": "Ribbed stretch cotton",
+      "neck": "Scoop neck",
+      "sleeves": "Sleeveless",
+      "length": "Cropped"
+    },
+    "sizeAndFit": {
+      "fitType": "Body fit",
+      "modelInfo": "Model height 5'7 wearing size S"
+    }
+  },
+  {
+    "category": "Urbanic",
+    "about": "GenZ Oversized Tie-Dye Tee",
+    "price": "899",
+    "mrp": "1790",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350358/img15_xrhj55.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350358/img15.4_dgac1r.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350358/img15.3_xs76uk.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350358/img15.1_obbya4.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350358/img15.2_w32rtp.jpg"
+    ],
+     "productDetails": {
+      "color": "Blue-Pink Tie Dye",
+      "fit": "Oversized",
+      "neck": "Round neck",
+      "fabric": "Soft cotton blend",
+      "sleeves": "Half sleeves"
+    },
+    "sizeAndFit": {
+      "fitType": "Loose",
+      "modelInfo": "Model height 6' wearing size L"
+    }
+  },
+  {
+    "category": "Zara",
+    "about": "GenZ Wide-Leg Cargo Pants",
+    "price": "1990",
+    "mrp": "3990",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350357/img14_vmqbd7.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350358/img14.4_fwqm2r.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350357/img14.3_ziumsc.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350338/img14.1_avhlqq.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350337/img14.2_ukpaox.jpg"
+    ],
+     "productDetails": {
+      "color": "Khaki",
+      "fit": "Wide leg",
+      "fabric": "Woven cotton",
+      "pockets": "Multiple cargo pockets",
+      "closure": "Button & zip",
+      "waistband": "Mid-rise waistband"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed",
+      "modelInfo": "Model height 5'10 wearing size 30"
+    }
+  },
+  {
+    "category": "H&M",
+    "about": "GenZ Striped Polo T-Shirt",
+    "price": "999",
+    "mrp": "1999",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350337/img13_cs2ocz.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350337/img13.3_axzgps.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350337/img13.4_ux9rvf.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350337/img13.1_mx4x1f.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350336/img13.2_rq88vv.jpg"
+    ],
+     "productDetails": {
+      "color": "Navy Blue & White Stripes",
+      "fit": "Regular fit",
+      "collar": "Polo collar",
+      "fabric": "Piqué knit cotton",
+      "sleeves": "Short sleeves",
+      "closure": "2-button placket"
+    },
+    "sizeAndFit": {
+      "fitType": "Classic",
+      "modelInfo": "Model height 6' wearing M"
+    }
+  },
+  {
+    "category": "Nike",
+    "about": "GenZ Dri-Fit Active Tee",
+    "price": "1290",
+    "mrp": "2590",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350336/img12_o1ka63.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350336/img12.4_h4nnhr.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350336/img12.3_tzhxrs.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350335/img12.2_gcv7kj.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350331/img12.1_hrijin.jpg"
+    ],
+    "productDetails": {
+      "color": "Electric Blue",
+      "fabric": "Nike Dri-FIT performance fabric",
+      "fit": "Slim athletic fit",
+      "sleeves": "Short sleeves",
+      "neck": "Crew neck",
+      "technology": "Moisture-wicking"
+    },
+    "sizeAndFit": {
+      "fitType": "Athletic slim",
+      "modelInfo": "Model 6'2 wearing size L"
+    }
+  },
+  {
+    "category": "Urban Monkey",
+    "about": "GenZ Printed Oversized Shirt",
+    "price": "1490",
+    "mrp": "2990",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350331/img11_dvxaol.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350331/img11.4_sehein.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350330/img11.2_uelfup.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350330/img11.3_jajmzt.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350330/img11.1_ujlqho.jpg"
+    ],
+     "productDetails": {
+      "color": "White with black graffiti print",
+      "fit": "Oversized",
+      "fabric": "Lightweight rayon blend",
+      "collar": "Spread collar",
+      "sleeves": "Half sleeves",
+      "closure": "Front button closure"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed oversized",
+      "modelInfo": "Model 6' wearing size L"
+    }
+  },
+  {
+    "category": "H&M",
+    "about": "GenZ Loose Fit Sweatshirt",
+    "price": "1699",
+    "mrp": "3399",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350322/img10_tgkmwj.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350322/img10.3_siivjx.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350322/img10.1_yls1wm.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350322/img10.2_ekzxna.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350322/img10.4_pksjbi.jpg"
+    ],
+    "productDetails": {
+      "color": "Pastel Green",
+      "fit": "Loose fit",
+      "fabric": "Soft fleece",
+      "sleeves": "Long sleeves",
+      "neck": "Crew neck",
+      "length": "Regular"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed",
+      "modelInfo": "Model 5'9 wearing M"
+    }
+  },
+  {
+    "category": "Zara",
+    "about": "GenZ Crop Puffer Jacket",
+    "price": "2490",
+    "mrp": "4890",
+    "discount": "49%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350321/img9_zm3php.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350321/img9.4_magrxc.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350321/img9.3_s7qvyl.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350321/img9.2_tlu922.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350317/img9.1_pxz4it.jpg"
+    ],
+     "productDetails": {
+      "color": "Jet Black",
+      "fit": "Cropped puffer",
+      "fabric": "Quilted polyester",
+      "closure": "Front zipper",
+      "sleeves": "Long sleeves",
+      "collar": "High neck"
+    },
+    "sizeAndFit": {
+      "fitType": "Puffer fit",
+      "modelInfo": "Model 5'7 wearing S"
+    }
+  },
+  {
+    "category": "Nike",
+    "about": "GenZ Track Pants",
+    "price": "1599",
+    "mrp": "3199",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350317/img8_uyzwyn.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350317/img8.4_e0lw61.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350316/img8.3_thgmms.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350316/img8.2_mmfw4p.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350313/img8.1_glzkji.jpg"
+    ],
+    "productDetails": {
+      "color": "Black",
+      "fit": "Slim fit",
+      "fabric": "Polyester-spandex blend",
+      "waist": "Elastic with drawcord",
+      "pockets": "Zip pockets",
+      "length": "Ankle length"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim athletic",
+      "modelInfo": "Model 6' wearing M"
+    }
+  },
+  {
+    "category": "H&M",
+    "about": "GenZ Oversized Varsity Jacket",
+    "price": "2999",
+    "mrp": "5999",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350313/img7_tdbext.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350313/img7.3_pjgh0x.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350313/img7.4_ogyjxs.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350312/img7.2_y7tsmt.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350312/img7.1_htgpz2.jpg"
+    ],
+     "productDetails": {
+      "color": "Maroon & White",
+      "fit": "Oversized varsity",
+      "fabric": "Wool blend body with PU sleeves",
+      "closure": "Snap buttons",
+      "lining": "Polyester lining",
+      "collar": "Ribbed varsity collar"
+    },
+    "sizeAndFit": {
+      "fitType": "Loose",
+      "modelInfo": "Model 6'1 wearing L"
+    }
+  },
+  {
+    "category": "Urbanic",
+    "about": "GenZ Curved Hem Crop Top",
+    "price": "690",
+    "mrp": "1390",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350309/img6_zdt6js.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350309/img6.3_kphvc0.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350308/img6.1_kagzfm.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350309/img6.4_gzhtbd.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350309/img6.2_zckpdi.jpg"
+    ],
+    "productDetails": {
+      "color": "Lavender",
+      "fit": "Bodycon",
+      "fabric": "Soft stretch cotton",
+      "neck": "High round neck",
+      "length": "Curved hem crop",
+      "sleeves": "Sleeveless"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "modelInfo": "Model 5'7 wearing S"
+    }
+  },
+  {
+    "category": "Zara",
+    "about": "GenZ Slim-Fit Flared Pants",
+    "price": "1590",
+    "mrp": "3190",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350308/img5_hru0mp.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350306/img5.4_mtvsix.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350306/img5.2_jwedvl.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350306/img5.3_m2n95v.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350305/img5.1_ice2m3.jpg"
+    ],
+    "productDetails": {
+      "color": "Cream",
+      "fit": "Slim through thigh, flared bottom",
+      "fabric": "Structured polyester blend",
+      "closure": "Side zip closure",
+      "waist": "High rise"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "modelInfo": "Model 5'9 wearing S"
+    }
+  },
+  {
+    "category": "H&M",
+    "about": "GenZ Oversized Hoodie",
+    "price": "1990",
+    "mrp": "3990",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350305/img4_m5vxw2.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350305/img4.4_vb4vo9.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350305/img4.2_qiip9f.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350304/img4.1_o9eepp.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350306/img4.3_w6i9sy.jpg"
+    ],
+     "productDetails": {
+      "color": "Grey Melange",
+      "fit": "Oversized",
+      "fabric": "Cotton fleece",
+      "sleeves": "Long sleeves",
+      "hood": "Attached hood",
+      "pocket": "Kangaroo pocket"
+    },
+    "sizeAndFit": {
+      "fitType": "Loose oversized",
+      "modelInfo": "Model 6' wearing L"
+    }
+  },
+  {
+    "category": "Urbanic",
+    "about": "GenZ Mini Skirt with Side Pockets",
+    "price": "890",
+    "mrp": "1790",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350303/img3_rzvbqg.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350299/img3.4_mf7wgr.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350299/img3.3_xswqoz.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350299/img3.2_vyzitc.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350298/img3.1_hdmcps.jpg"
+    ],
+     "productDetails": {
+      "color": "Black",
+      "fit": "A-line mini",
+      "fabric": "Woven polyester",
+      "closure": "Back zip",
+      "pockets": "2 utility side pockets",
+      "length": "Mid-thigh"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model 5'6 wearing S"
+    }
+  },
+  {
+    "category": "Zara",
+    "about": "GenZ Satin Night-Out Top",
+    "price": "1390",
+    "mrp": "2790",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350298/img2_uzlrhe.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350298/img2.2_doon6p.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350298/img2.1_imwe7l.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350299/img2.3_clgoiz.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350298/img2.1_imwe7l.jpg"
+    ],
+    "productDetails": {
+      "color": "Metallic Silver",
+      "fit": "Slim fit",
+      "fabric": "Satin silk blend",
+      "neck": "V-neck",
+      "closure": "Side invisible zip",
+      "length": "Waist length"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "modelInfo": "Model 5'8 wearing XS"
+    }
+  },
+  {
+    "category": "Nike",
+    "about": "GenZ Streetwear Jogger Pants",
+    "price": "2290",
+    "mrp": "4590",
+    "discount": "50%off",
+    "imgUrl": "https://res.cloudinary.com/datrlutyw/image/upload/v1765350298/img1_rt2uay.webp",
+    "images": [
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350298/img1.4_exjirq.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350298/img1.2_or7s3m.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350298/img1.3_dzxmbw.jpg",
+      "https://res.cloudinary.com/datrlutyw/image/upload/v1765350298/img1.1_jnhej0.jpg"
+    ],
+    "productDetails": {
+      "color": "Dark Olive",
+      "fit": "Streetwear relaxed fit",
+      "fabric": "Durable nylon blend",
+      "waistband": "Elastic + drawcord",
+      "pockets": "Cargo side pockets",
+      "length": "Full length"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed",
+      "modelInfo": "Model 6' wearing M"
+    }
+  
+  }
+]

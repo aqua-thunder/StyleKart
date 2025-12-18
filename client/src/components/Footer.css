@@ -1,0 +1,32 @@
+@media only screen and (max-width: 500px) {
+   footer #grid{
+    display: grid;
+    grid-template-columns: auto auto;
+   }
+   footer{
+    padding: 15px;
+   }
+   footer .display_none{
+    display: none;
+   }
+   footer #padding{
+    padding: 10px;
+   }
+   
+}
+
+@media only screen and (min-width: 500px) and (max-width: 800px) {
+ footer #grid{
+    display: grid;
+    grid-template-columns: auto auto;
+   }
+    footer .display_none{
+    display: none;
+   }
+   footer{
+    padding: 15px;
+   }
+  footer #padding{
+    padding: 10px;
+   }
+}

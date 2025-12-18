@@ -1,0 +1,523 @@
+[
+  {
+    "category": "sarees",
+    "about": "Floral Printed Georgette Saree",
+    "price": "1299",
+    "mrp": "2599",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/32008867/2025/6/15/4b09090f-3704-4bf0-9837-59f6791ad6551749980540040-KALINI-Ethnic-Motifs-Printed-Saree-901749980539581-1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32008867/2025/6/15/4b09090f-3704-4bf0-9837-59f6791ad6551749980540040-KALINI-Ethnic-Motifs-Printed-Saree-901749980539581-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32008867/2025/6/15/1b2b35e9-3f18-4fbe-8e68-f949b7e4a3e01749980540011-KALINI-Ethnic-Motifs-Printed-Saree-901749980539581-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32008867/2025/6/15/44e328fe-8fb5-416c-b618-51ea9efce2981749980539983-KALINI-Ethnic-Motifs-Printed-Saree-901749980539581-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32008867/2025/6/15/5dbefdf2-78df-4a70-9544-2486531a74b61749980539927-KALINI-Ethnic-Motifs-Printed-Saree-901749980539581-5.jpg"
+    ],
+    "productDetails": {
+      "color": "Pink",
+      "fit": "Regular drape",
+      "neck": "NA",
+      "sleeves": "NA",
+      "fabric": "Georgette",
+      "length": "5.5 meters"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 5'7 wearing free size"
+    }
+  },
+  {
+    "category": "ethic wear",
+    "about": "Embroidered Anarkali Kurta Set",
+    "price": "1899",
+    "mrp": "3799",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2024/OCTOBER/4/4WagaKKo_8880e6afe39a411585a208d9ad91177b.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/4/4WagaKKo_8880e6afe39a411585a208d9ad91177b.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/4/bujl3rh4_a910984d37f148d7850683c12936c678.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/4/BLp69Z7O_7476f5122d3a4d63b454f671b8746fb9.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/OCTOBER/4/B5tt8mC5_a94556e9a7424503a6c4a28c71d15b77.jpg"
+    ],
+    "productDetails": {
+      "color": "Maroon",
+      "fit": "Flared fit",
+      "neck": "Round neck",
+      "sleeves": "Full sleeves",
+      "fabric": "Georgette",
+      "length": "Ankle length"
+    },
+    "sizeAndFit": {
+      "fitType": "Flared",
+      "modelInfo": "Model height 5'8 wearing size M"
+    }
+  },
+  {
+    "category": "tops",
+    "about": "Solid Ribbed Crop Top",
+    "price": "599",
+    "mrp": "1199",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JULY/11/2CQRenri_2758b1c778534bdd9aada6beb619a8b4.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/11/2CQRenri_2758b1c778534bdd9aada6beb619a8b4.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/11/bjsQDzBK_4c82417bef6a476b822391a298d96f51.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/11/KBHj6tLn_3044342079c444aa8e10e7468bb52f89.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/11/v8uItpaX_24de9783a6054a478b83395391dff5b5.jpg"
+    ],
+    "productDetails": {
+      "color": "White",
+      "fit": "Slim fit",
+      "neck": "Square neck",
+      "sleeves": "Short sleeves",
+      "fabric": "Cotton blend",
+      "length": "Crop length"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "modelInfo": "Model height 5'6 wearing size S"
+    }
+  },
+  {
+    "category": "Tshirts",
+    "about": "Women Formal Solid Shirt",
+    "price": "999",
+    "mrp": "1999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/32659930/2025/2/12/3b82f50b-dd33-48d1-ab5a-8cf0f1d3f0e61739352216292-Bewakoof-Women-Printed-T-shirt-191739352215988-1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32659930/2025/2/12/3b82f50b-dd33-48d1-ab5a-8cf0f1d3f0e61739352216292-Bewakoof-Women-Printed-T-shirt-191739352215988-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32659930/2025/2/12/9dc55088-0c6a-4cc7-8ca3-77481cb255311739352216278-Bewakoof-Women-Printed-T-shirt-191739352215988-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32659930/2025/2/12/352ffc16-20f9-4546-9515-69be585b2b301739352216249-Bewakoof-Women-Printed-T-shirt-191739352215988-4.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32659930/2025/2/12/cee297a7-1eb3-43e2-93f3-4fbacbf784be1739352216235-Bewakoof-Women-Printed-T-shirt-191739352215988-5.jpg"
+    ],
+    "productDetails": {
+      "color": "Sky Blue",
+      "fit": "Regular fit",
+      "neck": "Collared",
+      "sleeves": "Full sleeves",
+      "fabric": "Cotton",
+      "length": "Regular length"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 5'7 wearing size M"
+    }
+  },
+  {
+    "category": "jeans",
+    "about": "High Rise Skinny Jeans",
+    "price": "1499",
+    "mrp": "2999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/32206961/2025/5/12/29d6534d-3f68-4726-acac-e0ce2eb51ad31747028539274-Chemistry-Women-Jeans-7241747028538589-1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32206961/2025/5/12/29d6534d-3f68-4726-acac-e0ce2eb51ad31747028539274-Chemistry-Women-Jeans-7241747028538589-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32206961/2025/5/12/c4e59e47-ecfc-4eeb-8cdd-d92fb0ca07e01747028539238-Chemistry-Women-Jeans-7241747028538589-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32206961/2025/5/12/af753902-5362-4f2a-8ce0-b1ab7eaf95681747028539204-Chemistry-Women-Jeans-7241747028538589-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32206961/2025/5/12/3ff5476e-3189-4c8b-a05d-c036df303b791747028539134-Chemistry-Women-Jeans-7241747028538589-5.jpg"
+    ],
+    "productDetails": {
+      "color": "Dark Blue",
+      "fit": "Skinny fit",
+      "neck": "NA",
+      "sleeves": "NA",
+      "fabric": "Denim",
+      "length": "Full length"
+    },
+    "sizeAndFit": {
+      "fitType": "Skinny",
+      "modelInfo": "Model height 5'8 wearing size 28"
+    }
+  },
+  {
+    "category": "kurtas",
+    "about": "Printed Straight Kurta",
+    "price": "899",
+    "mrp": "1799",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/34701409/2025/6/30/1a3e9f73-1d70-4eb5-bb81-9ee12ce026271751288724635-SANISA-Ethnic-Motifs-Yoke-Design-Sequnnied-Straight-Kurta-Wi-1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/34701409/2025/6/30/1a3e9f73-1d70-4eb5-bb81-9ee12ce026271751288724635-SANISA-Ethnic-Motifs-Yoke-Design-Sequnnied-Straight-Kurta-Wi-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/34701409/2025/6/30/6dec5eb6-11cf-4ae0-a1d3-7b3f8548d61e1751288724620-SANISA-Ethnic-Motifs-Yoke-Design-Sequnnied-Straight-Kurta-Wi-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/34701409/2025/6/30/39da41c4-c4f3-4559-87f3-2df2e1731bb61751288724605-SANISA-Ethnic-Motifs-Yoke-Design-Sequnnied-Straight-Kurta-Wi-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/34701409/2025/6/30/b52fc0bf-f358-4b6b-a776-8abda365014d1751288724588-SANISA-Ethnic-Motifs-Yoke-Design-Sequnnied-Straight-Kurta-Wi-4.jpg"
+    ],
+    "productDetails": {
+      "color": "Mustard",
+      "fit": "Straight fit",
+      "neck": "V-neck",
+      "sleeves": "3/4 sleeves",
+      "fabric": "Rayon",
+      "length": "Calf length"
+    },
+    "sizeAndFit": {
+      "fitType": "Straight",
+      "modelInfo": "Model height 5'6 wearing size M"
+    }
+  },
+  {
+    "category": "playsuts",
+    "about": "Solid Belted Playsuit",
+    "price": "1199",
+    "mrp": "2399",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/29/bi6IiaM2_4976353c8cc74f4f818d48fa5fc3fccb.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/29/bi6IiaM2_4976353c8cc74f4f818d48fa5fc3fccb.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/29/aOjVrHyg_fefb543670414becae7f632838b28685.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/29/kwT1AqC3_76b3bdd224a244a2af9a429936114f66.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/29/qzka4BW3_fbb4bb7eed9643c5b33283f62c61c0aa.jpg"
+    ],
+    "productDetails": {
+      "color": "Olive Green",
+      "fit": "Regular fit",
+      "neck": "V-neck",
+      "sleeves": "Sleeveless",
+      "fabric": "Poly crepe",
+      "length": "Short length"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 5'7 wearing size S"
+    }
+  },
+  {
+    "category": "dupattas",
+    "about": "Banarasi Silk Dupatta",
+    "price": "799",
+    "mrp": "1599",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/30280015/2024/7/22/7614dd6f-7845-4942-8ae7-a2f1afa378b41721614081485DupattaBazaarDupattawithSequinned1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30280015/2024/7/22/7614dd6f-7845-4942-8ae7-a2f1afa378b41721614081485DupattaBazaarDupattawithSequinned1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30280015/2024/7/22/e06e34ea-25f7-43ce-94eb-69a2d56308af1721614081496DupattaBazaarDupattawithSequinned2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30280015/2024/7/22/b2227c9f-8b14-4f8f-9670-7601d975fbfa1721614081553DupattaBazaarDupattawithSequinned3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30280015/2024/7/22/9c2b51e9-3919-4254-9caa-23ca8f8dc3871721614081530DupattaBazaarDupattawithSequinned4.jpg"
+    ],
+    "productDetails": {
+      "color": "Red",
+      "fit": "Free size",
+      "neck": "NA",
+      "sleeves": "NA",
+      "fabric": "Silk",
+      "length": "2.5 meters"
+    },
+    "sizeAndFit": {
+      "fitType": "Free",
+      "modelInfo": "Free size"
+    }
+  },
+  {
+    "category": "shrugs",
+    "about": "Longline Open Front Shrug",
+    "price": "999",
+    "mrp": "1999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/5/3HsNWVfM_7d87ebf454964876a202af96c9ed0d83.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/5/3HsNWVfM_7d87ebf454964876a202af96c9ed0d83.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/5/Kx79CvdM_2166a82aa46641198421a2afecfcfd21.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/5/4pIGseJl_c921d6cb6fbe4e91a4d13faf4ea255f5.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/5/xmAtNyn6_2c2c8daf7d3746ce92a322ab1b9b30d6.jpg"
+    ],
+    "productDetails": {
+      "color": "Black",
+      "fit": "Loose fit",
+      "neck": "Open front",
+      "sleeves": "Full sleeves",
+      "fabric": "Polyester",
+      "length": "Knee length"
+    },
+    "sizeAndFit": {
+      "fitType": "Loose",
+      "modelInfo": "Model height 5'8 wearing free size"
+    }
+  },
+  {
+    "category": "jackets",
+    "about": "Women Denim Jacket",
+    "price": "1799",
+    "mrp": "3599",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/3/8pZ92iyM_b38ae58fd90e4c2488560d45d77466cb.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/8pZ92iyM_b38ae58fd90e4c2488560d45d77466cb.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/M7nrx1A0_dff5428d0ec74d358b22b95f03a5852d.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/6aTGetjX_d2e21fe7ea2446dda1b9e83b66f9aaf0.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/Eirrcx0Y_d7f62647faf3450c81b0bc96024d0d78.jpg"
+    ],
+    "productDetails": {
+      "color": "Light Blue",
+      "fit": "Regular fit",
+      "neck": "Collared",
+      "sleeves": "Full sleeves",
+      "fabric": "Denim",
+      "length": "Regular length"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 5'7 wearing size M"
+    }
+  },
+  {
+    "category": "lehnga cholis",
+    "about": "Embroidered Wedding Lehenga Choli",
+    "price": "4999",
+    "mrp": "9999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/MAY/28/xW7yArkO_6fed17a0e4384a83896f645791669997.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/MAY/28/xW7yArkO_6fed17a0e4384a83896f645791669997.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/MAY/28/9Zh3zY2j_363906078c1a4909b8f584573c13c5ab.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/MAY/28/tyHViC7R_d612911061ab47a398cd5f9b3a57a83f.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/MAY/28/mK5gUBj9_99e7e07ed4f144d3857a5ce5addf36a6.jpg"
+    ],
+    "productDetails": {
+      "color": "Red & Gold",
+      "fit": "Flared fit",
+      "neck": "Sweetheart",
+      "sleeves": "Short sleeves",
+      "fabric": "Silk blend",
+      "length": "Floor length"
+    },
+    "sizeAndFit": {
+      "fitType": "Flared",
+      "modelInfo": "Model height 5'6 wearing size M"
+    }
+  },
+  {
+    "category": "sarees",
+    "about": "Printed Linen Saree with Contrast Border",
+    "price": "1399",
+    "mrp": "2799",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2024/DECEMBER/23/IK5Atx53_a6e605c5c2d44a4482d7f27ad1e7c174.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/DECEMBER/23/IK5Atx53_a6e605c5c2d44a4482d7f27ad1e7c174.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/DECEMBER/23/kyZsnJpV_4aae0a1a7d6d427ea2cacb7a022b31e7.jpg",
+      "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5745608584001/57aed6d8-210d-4cde-9c09-4332abbc0b34/main/1280x720/7s178ms/match/image.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/DECEMBER/23/CiU3DTk7_b21f7bab5e064e3784eeb9c8314bc214.jpg"
+    ],
+    "productDetails": {
+      "color": "Off White",
+      "fit": "Regular drape",
+      "neck": "NA",
+      "sleeves": "NA",
+      "fabric": "Linen",
+      "length": "5.5 meters"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 5'7 wearing free size"
+    }
+  },
+  {
+    "category": "ethic wear",
+    "about": "Printed Kurta Palazzo Set",
+    "price": "1699",
+    "mrp": "3399",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/13/r5EtY0GB_524f6f2cc71746e78abf8e6643dc8c33.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/13/r5EtY0GB_524f6f2cc71746e78abf8e6643dc8c33.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/13/KbsfhSte_e22606328d5c4838bf014e44e3a57b33.jpg",
+      "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5745608584001/1d472916-56f9-46eb-86e3-739dc62586ff/main/1280x720/9s280ms/match/image.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/13/u1iimbBG_ffab4846999a4918962507395eab41d5.jpg"
+    ],
+    "productDetails": {
+      "color": "Teal Blue",
+      "fit": "Relaxed fit",
+      "neck": "Round neck",
+      "sleeves": "3/4 sleeves",
+      "fabric": "Cotton blend",
+      "length": "Calf length"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed",
+      "modelInfo": "Model height 5'6 wearing size M"
+    }
+  },
+  {
+    "category": "tops",
+    "about": "Polka Dot Peplum Top",
+    "price": "699",
+    "mrp": "1399",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/28/qRe7CdND_6a0ff61d44114d1cb847dc3f36479c6f.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/28/qRe7CdND_6a0ff61d44114d1cb847dc3f36479c6f.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/28/VfxYdROI_04dbbfb75fcd4b29bb300951b57879bd.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/28/8a2HkX7N_02dac4b33e294298849cbbfe9795bd86.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/28/ONmsd7U8_bc71966b2dba4ac0b166232e6fa61373.jpg"
+    ],
+    "productDetails": {
+      "color": "Navy Blue",
+      "fit": "Regular fit",
+      "neck": "V-neck",
+      "sleeves": "Short sleeves",
+      "fabric": "Crepe",
+      "length": "Hip length"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 5'5 wearing size S"
+    }
+  },
+  {
+    "category": "Tshirts",
+    "about": "Checked Casual Shirt for Women",
+    "price": "899",
+    "mrp": "1799",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JUNE/10/2l52Hqe6_fdb6ccf39e4940f6b29218fdf06df924.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/10/2l52Hqe6_fdb6ccf39e4940f6b29218fdf06df924.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/10/aSdtdwxA_a2b3e0d58a674ec0b1077710a2f316db.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/10/nfwS9U2O_cbf3b0ba5efb4090bd5873bcccde8b65.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JUNE/10/eqvZq6wQ_f1632d46f7e94fad911a49abc9b54e41.jpg"
+    ],
+    "productDetails": {
+      "color": "Black & White",
+      "fit": "Regular fit",
+      "neck": "Collared",
+      "sleeves": "Full sleeves",
+      "fabric": "Cotton",
+      "length": "Regular length"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "modelInfo": "Model height 5'7 wearing size M"
+    }
+  },
+  {
+    "category": "jeans",
+    "about": "Mid Rise Straight Fit Jeans",
+    "price": "1599",
+    "mrp": "3199",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24943462/2023/9/12/50b78d8a-adb5-4979-81c2-bc36a0212a5d1694523625910SASSAFRASBASICSWomenBlueStraightFitLowDistressJeans1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24943462/2023/9/12/50b78d8a-adb5-4979-81c2-bc36a0212a5d1694523625910SASSAFRASBASICSWomenBlueStraightFitLowDistressJeans1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24943462/2023/9/12/3faa2faa-af2e-46b8-a5ab-51108e256df61694523625846SASSAFRASBASICSWomenBlueStraightFitLowDistressJeans2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24943462/2023/9/12/585c3c3e-cf29-43eb-810e-dace67aa8d451694523625868SASSAFRASBASICSWomenBlueStraightFitLowDistressJeans3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24943462/2023/9/12/1127e947-c481-4662-ab67-02ed5b4215ba1694523625889SASSAFRASBASICSWomenBlueStraightFitLowDistressJeans4.jpg"
+    ],
+    "productDetails": {
+      "color": "Black",
+      "fit": "Straight fit",
+      "neck": "NA",
+      "sleeves": "NA",
+      "fabric": "Denim",
+      "length": "Full length"
+    },
+    "sizeAndFit": {
+      "fitType": "Straight",
+      "modelInfo": "Model height 5'8 wearing size 28"
+    }
+  },
+  {
+    "category": "kurtas",
+    "about": "Embroidered A-Line Kurta",
+    "price": "1199",
+    "mrp": "2399",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/MAY/26/0RpMfQH5_ca219bc14e3946a394f05ecc6082bc72.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/MAY/26/0RpMfQH5_ca219bc14e3946a394f05ecc6082bc72.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/MAY/26/g8pXBS7j_8945e696c06342259ad054cd42a667cd.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/MAY/26/S5CZuOwe_c6c4d57c713e4da38447c93bf6ea8ec3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/MAY/26/PNoYDvgd_d16e9ae09536485080d2bab267587c5a.jpg"
+    ],
+    "productDetails": {
+      "color": "Wine",
+      "fit": "A-line fit",
+      "neck": "Round neck",
+      "sleeves": "3/4 sleeves",
+      "fabric": "Rayon",
+      "length": "Knee length"
+    },
+    "sizeAndFit": {
+      "fitType": "A-line",
+      "modelInfo": "Model height 5'6 wearing size M"
+    }
+  },
+  {
+    "category": "playsuts",
+    "about": "Floral Printed Summer Playsuit",
+    "price": "1099",
+    "mrp": "2199",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/30/2qLdu7yQ_39f209cfd64f41a5b251c61b538ce4fb.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/OCTOBER/30/2qLdu7yQ_39f209cfd64f41a5b251c61b538ce4fb.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/OCTOBER/30/XJUFEOGl_bc6a16368be24e0f8074f8c62e0595bb.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/OCTOBER/30/fURv42gD_001724fc496a43f3b0e33270cc563e1a.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/OCTOBER/30/beeQwhm3_116d3737d1b5480ebf119ce77a1a0ad6.jpg"
+    ],
+    "productDetails": {
+      "color": "Yellow",
+      "fit": "Relaxed fit",
+      "neck": "Sweetheart neck",
+      "sleeves": "Sleeveless",
+      "fabric": "Viscose",
+      "length": "Short length"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed",
+      "modelInfo": "Model height 5'5 wearing size S"
+    }
+  },
+  {
+    "category": "shrugs",
+    "about": "Printed Longline Kimono Shrug",
+    "price": "1099",
+    "mrp": "2199",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25771694/2023/11/6/9b1c2821-ff8d-459a-affc-6700eb40ff0d1699237532673Shrug1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25771694/2023/11/6/9b1c2821-ff8d-459a-affc-6700eb40ff0d1699237532673Shrug1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25771694/2023/11/6/fe9f0969-4ff7-4438-9b6d-a4e68eea8ff21699237532651Shrug2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25771694/2023/11/6/d6dc95d5-fe27-4dc5-8655-0448c0b02d3b1699237532667Shrug3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25771694/2023/11/6/0f300a04-ece5-43ec-bf99-e8ea99b4456a1699237532656Shrug5.jpg"
+    ],
+    "productDetails": {
+      "color": "Multi Color",
+      "fit": "Loose fit",
+      "neck": "Open front",
+      "sleeves": "Three-quarter sleeves",
+      "fabric": "Crepe",
+      "length": "Knee length"
+    },
+    "sizeAndFit": {
+      "fitType": "Loose",
+      "modelInfo": "Model height 5'8 wearing free size"
+    }
+  },
+  {
+    "category": "lehnga cholis",
+    "about": "Heavy Embroidered Festive Lehenga Choli",
+    "price": "5999",
+    "mrp": "11999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/27024840/2024/1/20/9e66ec84-6be1-4ca6-99d9-07a81d68a4b31705761076576indostreetPrintedTopWithSkirtsCo-Ords1.jpg",
+    "images": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27024840/2024/1/20/9e66ec84-6be1-4ca6-99d9-07a81d68a4b31705761076576indostreetPrintedTopWithSkirtsCo-Ords1.jpg",
+      "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5745608584001/5ccb1df6-1d71-497d-9445-2064ed5e788f/main/960x1280/7s797ms/match/image.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27024840/2024/1/20/bb17dfb8-c9d5-496d-9eb9-49b7cdc765921705761076563indostreetPrintedTopWithSkirtsCo-Ords2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27024840/2024/1/20/bb17dfb8-c9d5-496d-9eb9-49b7cdc765921705761076563indostreetPrintedTopWithSkirtsCo-Ords2.jpg"
+    ],
+    "productDetails": {
+      "color": "Royal Blue & Gold",
+      "fit": "Flared fit",
+      "neck": "Sweetheart",
+      "sleeves": "Sleeveless",
+      "fabric": "Velvet",
+      "length": "Floor length"
+    },
+    "sizeAndFit": {
+      "fitType": "Flared",
+      "modelInfo": "Model height 5'7 wearing size M"
+    }
+  }
+]
+

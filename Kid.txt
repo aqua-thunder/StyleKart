@@ -1,0 +1,445 @@
+[
+  {
+    "category": "TShirts",
+    "about": "Kids Cartoon Print Cotton T-Shirt",
+    "price": "399",
+    "mrp": "799",
+    "discount": "29%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/33544315/2025/6/2/06b040a7-c162-49c1-b2dd-ef23037371151748855595390-Allen-Solly-Junior-Boys-Tshirts-2681748855594996-1.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/33544315/2025/6/2/06b040a7-c162-49c1-b2dd-ef23037371151748855595390-Allen-Solly-Junior-Boys-Tshirts-2681748855594996-1.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/33544315/2025/6/2/c98fa913-8ef2-4fcc-9cd1-e080e9494c271748855595350-Allen-Solly-Junior-Boys-Tshirts-2681748855594996-2.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/33544315/2025/6/2/83ff56c0-d504-455a-a8c0-36c765cb24761748855595313-Allen-Solly-Junior-Boys-Tshirts-2681748855594996-3.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/33544315/2025/6/2/65f4e75a-4bcb-4096-9bee-0f4d6684cc8d1748855595279-Allen-Solly-Junior-Boys-Tshirts-2681748855594996-4.jpg"
+    ],
+    "productDetails": {
+      "color": "Yellow",
+      "fit": "Regular fit",
+      "fabric": "Pure cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Comfort",
+      "ageGroup": "3-4 Years"
+    }
+  },
+  {
+    "category": "Shirts",
+    "about": "Kids Checked Casual Shirt",
+    "price": "549",
+    "mrp": "1099",
+    "discount": "10%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/24/z8SObar1_350017084fe847a3b26fc2656c07d0d4.jpg",
+    "images":[
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/24/z8SObar1_350017084fe847a3b26fc2656c07d0d4.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/24/NvpQwkjG_881989b1a93e4099beac7464d11cece3.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/24/8hckDMRx_abb9a3d3f16b4caa8b315f5e6bcb2510.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/24/Zk2LLHD5_4cff453c1c3840c98acdfab007ec42ae.jpg"
+    ],
+    "productDetails": {
+      "color": "Blue & White",
+      "fit": "Slim fit",
+      "fabric": "Cotton blend"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "ageGroup": "5-6 Years"
+    }
+  },
+  {
+    "category": "Ethic Wear",
+    "about": "Kids Traditional Ethnic Kurta",
+    "price": "899",
+    "mrp": "1799",
+    "discount": "40%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JANUARY/29/DPbR9uwB_bbfef1453b6e4d9387fff33fe4974de5.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JANUARY/29/DPbR9uwB_bbfef1453b6e4d9387fff33fe4974de5.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JANUARY/29/cEanaQxi_abfa90b00e8b4128bc8910d08649641a.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JANUARY/29/rqLo4gUb_873394f914e44aa6bd5d2398b6558770.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JANUARY/29/OMmHRHqw_47428d74006947578dd92956974a5e7f.jpg"
+    ],
+    "productDetails": {
+      "color": "Red",
+      "fabric": "Cotton silk"
+    },
+    "sizeAndFit": {
+      "fitType": "Comfort",
+      "ageGroup": "6-7 Years"
+    }
+  },
+  {
+    "category": "Party Wear",
+    "about": "Kids Party Wear Blazer Set",
+    "price": "1499",
+    "mrp": "2999",
+    "discount": "35%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/26987452/2024/1/17/8949addf-b60b-4f78-b992-1fd26a37bd901705489835972VASTRAMAYBoysEmbellishedSingleBreastedBlazer1.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26987452/2024/1/17/8949addf-b60b-4f78-b992-1fd26a37bd901705489835972VASTRAMAYBoysEmbellishedSingleBreastedBlazer1.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26987452/2024/1/17/3e589f8f-02cd-486b-9eac-2f663fc43c7a1705489835983VASTRAMAYBoysEmbellishedSingleBreastedBlazer2.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26987452/2024/1/17/dada3dee-c0c4-4049-bc9f-690a7f0b08651705489835994VASTRAMAYBoysEmbellishedSingleBreastedBlazer3.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26987452/2024/1/17/d52b0b1b-8dbe-44d0-ba91-c33ec9f7e5881705489836005VASTRAMAYBoysEmbellishedSingleBreastedBlazer4.jpg"
+    ],
+    "productDetails": {
+      "color": "Navy Blue",
+      "fabric": "Poly blend"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "ageGroup": "7-8 Years"
+    }
+  },
+  {
+    "category": "Bodysuits",
+    "about": "Baby Printed Cotton Bodysuit",
+    "price": "299",
+    "mrp": "599",
+    "discount": "10%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/6/0LcDCkIp_ee72d77a983a44e6990f1ebe94af34ac.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/6/0LcDCkIp_ee72d77a983a44e6990f1ebe94af34ac.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/6/40xI1zUH_b053ed8d6cc44a70b6828f7e91748fa6.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/6/Tltb7BRu_79d464180a904c75bc9a78e91ef325ef.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/6/K11HFWZE_227f9cc1760c42bd96d61c05a2868b13.jpg"
+    ],
+    "productDetails": {
+      "color": "White",
+      "fabric": "Organic cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Soft fit",
+      "ageGroup": "0-6 Months"
+    }
+  },
+  {
+    "category": "Bottom Wear",
+    "about": "Kids Denim Joggers",
+    "price": "699",
+    "mrp": "1399",
+    "discount": "33%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/32634705/2025/4/3/65e315cb-c24e-403b-b4fd-1770048e8fb61743677650414-United-Colors-of-Benetton-Kids-Boys-Regular-Fit-Joggers-With-1.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32634705/2025/4/3/65e315cb-c24e-403b-b4fd-1770048e8fb61743677650414-United-Colors-of-Benetton-Kids-Boys-Regular-Fit-Joggers-With-1.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32634705/2025/4/3/ab0e84d9-02f6-4df7-8c79-27b26a880fb61743677650385-United-Colors-of-Benetton-Kids-Boys-Regular-Fit-Joggers-With-2.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32634705/2025/4/3/f20d2288-775e-4770-9b55-a4e92aa001f11743677650356-United-Colors-of-Benetton-Kids-Boys-Regular-Fit-Joggers-With-3.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/32634705/2025/4/3/399df40a-4ba8-4b22-bc19-8ed107c508a31743677650328-United-Colors-of-Benetton-Kids-Boys-Regular-Fit-Joggers-With-4.jpg"
+    ],
+    "productDetails": {
+      "color": "Dark Blue",
+      "fabric": "Denim"
+    },
+    "sizeAndFit": {
+      "fitType": "Elastic waist",
+      "ageGroup": "8-9 Years"
+    }
+  },
+  {
+    "category": "Kurta Sets",
+    "about": "Kids Kurta Pajama Set",
+    "price": "1199",
+    "mrp": "2399",
+    "discount": "16%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24671106/2023/8/26/61c84059-6c92-4bdf-bcd4-5e1fcc0bd4b11693036940433FloralPrintedGotaPattiEmbellishedEmpireKurtaShararaSetwithDu5.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24671106/2023/8/26/61c84059-6c92-4bdf-bcd4-5e1fcc0bd4b11693036940433FloralPrintedGotaPattiEmbellishedEmpireKurtaShararaSetwithDu5.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24671106/2023/8/26/0f52d3e1-ec3d-4270-90b4-6f82ac40d8961693036940393FloralPrintedGotaPattiEmbellishedEmpireKurtaShararaSetwithDu2.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24671106/2023/8/26/e925e766-33c3-4c55-a091-5ef709e1e3b11693036940481FloralPrintedGotaPattiEmbellishedEmpireKurtaShararaSetwithDu3.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24671106/2023/8/26/b7ada0dd-04ce-4643-87ce-e8ace6ac282d1693036940410FloralPrintedGotaPattiEmbellishedEmpireKurtaShararaSetwithDu4.jpg"
+    ],
+    "productDetails": {
+      "color": "Green",
+      "fabric": "Cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Comfort",
+      "ageGroup": "5-6 Years"
+    }
+  },
+  {
+    "category": "Choli",
+    "about": "Girls Lehenga Choli Set",
+    "price": "1599",
+    "mrp": "3199",
+    "discount": "19%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/10/DRB2rG2O_7b06abff6e03444abdc2ca434be12c25.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/18/nzjchLAm_b6c93200de29481e8583e73b9179c290.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/18/5fqOVJsq_d3333e8899854941ba945d0dad6658f2.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/18/IcL5MpTK_d0c9996ee8d94cbfaa0fc427459e1ae8.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/18/fwlNT5I4_bc185d7e99284a00a7736e1e8ccb00f2.jpg"
+    ],
+    "productDetails": {
+      "color": "Pink",
+      "fabric": "Silk blend"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "ageGroup": "6-7 Years"
+    }
+  },
+  {
+    "category": "Nightwear",
+    "about": "Kids Printed Night Suit",
+    "price": "499",
+    "mrp": "999",
+    "discount": "40%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/7/NDIuMSHZ_43e7050342334ad3b48b57430c42cc04.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/7/NDIuMSHZ_43e7050342334ad3b48b57430c42cc04.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/7/twPECfI9_a2c8f585db4e48c9a166940974a09c06.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/7/1Ok7IXvP_f0232e14b42c4e61a8341e7b0f7875dc.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/7/8POJRZNx_63d134ba67eb4d39adad0b1736ea0da8.jpg"
+    ],
+    "productDetails": {
+      "color": "Light Blue",
+      "fabric": "Cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Relaxed",
+      "ageGroup": "4-5 Years"
+    }
+  },
+  {
+    "category": "Tops",
+    "about": "Girls Ruffled Sleeve Top",
+    "price": "449",
+    "mrp": "899",
+    "discount": "20%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/29/BnAvXRBs_f1d200b4c03241258a3d7f13b24858fe.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/29/BnAvXRBs_f1d200b4c03241258a3d7f13b24858fe.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/29/SGoscruu_002406b09ab34e5586af424dc6bdbda1.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/29/VNZ2aIXc_eb3aa36c88a145e19702c95116d8f9da.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/29/xWwocwGo_6ce8593fc881417f8dec944c067b2570.jpg"
+    ],
+    "productDetails": {
+      "color": "Lavender",
+      "fabric": "Cotton blend"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "ageGroup": "7-8 Years"
+    }
+  },
+  {
+    "category": "Dress",
+    "about": "Girls Floral Party Dress",
+    "price": "999",
+    "mrp": "1999",
+    "discount": "26%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/JULY/4/pYPZWAJr_0ea5d469438c422384bf2991b14ba9dd.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/4/pYPZWAJr_0ea5d469438c422384bf2991b14ba9dd.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/4/Ky7ZPQTZ_89604d34d383450ca6953e08bb0a92a5.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/4/7g2Rburc_231435ba856e43b585192e05b58ac01b.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/JULY/4/hRswRIMS_70882c26c18946509afa5b1bb9a7dfa8.jpg"
+    ],
+    "productDetails": {
+      "color": "Peach",
+      "fabric": "Net & cotton lining"
+    },
+    "sizeAndFit": {
+      "fitType": "Flared",
+      "ageGroup": "5-6 Years"
+    }
+  },
+
+  {
+    "category": "TShirts",
+    "about": "Kids Superhero Printed T-Shirt",
+    "price": "429",
+    "mrp": "859",
+    "discount": "30%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/NOVEMBER/18/zNVtT87I_5c99044a54a940b3a65621dc8163070c.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/18/zNVtT87I_5c99044a54a940b3a65621dc8163070c.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/18/fHBUr52P_a2bf7c697bd7424f9e02d93a2b942148.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/18/w80y0paT_28906ba2c9de473aa0c3b029ddb01dc2.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/18/Ug4Vxgys_19e514009f4e437cb18d520b30be903b.jpg"
+    ],
+    "productDetails": {
+      "color": "Red",
+      "fabric": "Cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "ageGroup": "6-7 Years"
+    }
+  },
+  {
+    "category": "Bottom Wear",
+    "about": "Kids Cotton Shorts",
+    "price": "349",
+    "mrp": "699",
+    "discount": "20%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/24/hptsGZnm_31606e3c7a7649ca95fdd342e223dc29.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/24/hptsGZnm_31606e3c7a7649ca95fdd342e223dc29.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/24/s2zqIWxS_07222c67f43e4879a01b51fbccca3f22.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/24/2BTLkX4g_7a408abc9bc44f3892dcc5bff3fc6010.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/24/SBhkfLmo_14bc556db2824e57879183ec6208f337.jpg"
+    ],
+    "productDetails": {
+      "color": "Grey",
+      "fabric": "Cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Elastic waist",
+      "ageGroup": "3-4 Years"
+    }
+  },
+  {
+    "category": "Nightwear",
+    "about": "Baby Soft Cotton Sleepsuit",
+    "price": "399",
+    "mrp": "799",
+    "discount": "30%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/8/gIcfOabq_f4aa0c47e64f4e9d9666ffe6e4e1cd8c.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/8/gIcfOabq_f4aa0c47e64f4e9d9666ffe6e4e1cd8c.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/8/WCIXUBI4_30d849724c3c470295570826f88ff5ae.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/8/sSgoVOgM_d8f63067a74c4ab489d1d205a4e2a863.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/8/0b6efPIo_7a4cc514129a4a6bacb4ce66a81628ec.jpg"
+    ],
+    "productDetails": {
+      "color": "Mint Green",
+      "fabric": "Cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Soft fit",
+      "ageGroup": "6-12 Months"
+    }
+  },
+  {
+    "category": "Dress",
+    "about": "Girls Polka Dot Casual Dress",
+    "price": "699",
+    "mrp": "1399",
+    "discount": "10%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/26209324/2023/12/2/99bb09e2-c9a6-4e68-9d60-dcdd40d00ccf1701534872060Dresses6.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26209324/2023/12/2/99bb09e2-c9a6-4e68-9d60-dcdd40d00ccf1701534872060Dresses6.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26209324/2023/12/2/5942cfda-e788-460b-aae3-87cc600499e81701534872041Dresses2.jpg",
+        "https://cf-images.ap-southeast-1.prod.boltdns.net/v1/jit/5745608584001/13125350-528e-4410-b0e5-cf50e5432669/main/1280x720/7s114ms/match/image.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26209324/2023/12/2/6690c79d-676f-4672-a7e3-3b670d8f0a181701534872028Dresses3.jpg"
+    ],
+    "productDetails": {
+      "color": "Navy Blue",
+      "fabric": "Cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "ageGroup": "8-9 Years"
+    }
+  },
+  {
+    "category": "Tops",
+    "about": "Girls Printed Cotton Top",
+    "price": "379",
+    "mrp": "759",
+    "discount": "25%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/11/48DTS1Lo_f8afac88e589467a85598f0167ed528f.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/11/48DTS1Lo_f8afac88e589467a85598f0167ed528f.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/11/OwYFmvbp_152cdcd23cee40a9938add920547c81c.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/11/q11Cpi5P_1fd2b4008a2244179dbdd3b2f9b82f9f.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/11/bXhc5U7h_e053bff11a964d559dd80d151532869c.jpg"
+    ],
+    "productDetails": {
+      "color": "White",
+      "fabric": "Cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Regular",
+      "ageGroup": "6-7 Years"
+    }
+  },
+  {
+    "category": "Shirts",
+    "about": "Kids Formal Solid Shirt",
+    "price": "599",
+    "mrp": "1199",
+    "discount": "40%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2024/SEPTEMBER/23/hHhdvVUO_b99d15c0071f46bda49f47717d1b0137.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/SEPTEMBER/23/hHhdvVUO_b99d15c0071f46bda49f47717d1b0137.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/SEPTEMBER/23/untkB36i_1e10206b87574871912cef48486e5cea.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/SEPTEMBER/23/YsawuHFk_787ffbd2f8204fa5a5d25fe6ea1f44c6.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2024/SEPTEMBER/23/untkB36i_1e10206b87574871912cef48486e5cea.jpg"
+    ],
+    "productDetails": {
+      "color": "Sky Blue",
+      "fabric": "Cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Slim",
+      "ageGroup": "9-10 Years"
+    }
+  },
+  {
+    "category": "Party Wear",
+    "about": "Boys Comfort Fit Notched Lapel Collar Pure Cotton Single-Breasted Blazer & T-Shirt",
+    "price": "1799",
+    "mrp": "3599",
+    "discount": "35%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/1/3iCPY7vC_df64c90b993a4dd5b9fc06b7ceb8fa46.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/OCTOBER/1/3iCPY7vC_df64c90b993a4dd5b9fc06b7ceb8fa46.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/OCTOBER/1/MdpK9XiR_34c61df3be6048849fc2b51e97ddf7da.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/OCTOBER/1/Udb6i8FG_faa12da544034ab194d43a396633c258.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/OCTOBER/1/eMKqrTB2_cc91be4d646b4789af0a13c089c1f5f5.jpg"
+    ],
+    "productDetails": {
+      "color": "Silver",
+      "fabric": "Sequin net"
+    },
+    "sizeAndFit": {
+      "fitType": "Flared",
+      "ageGroup": "7-8 Years"
+    }
+  },
+  {
+    "category": "Ethic Wear",
+    "about": "Kids Printed Ethnic Set",
+    "price": "999",
+    "mrp": "1999",
+    "discount": "22%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/AUGUST/28/lLgVWhc9_083a50bcfc1a4cbda3c03426328f015e.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/28/lLgVWhc9_083a50bcfc1a4cbda3c03426328f015e.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/28/gGZVZUXL_ff153d12b98342f0b04b12dee2eea772.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/28/nghdwSNf_605525f28e9c4dde9e3f9db92cb3170e.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/AUGUST/28/m6dildmn_f004df046c394505b79069ccc0b076dc.jpg"
+    ],
+    "productDetails": {
+      "color": "Yellow",
+      "fabric": "Cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Comfort",
+      "ageGroup": "4-5 Years"
+    }
+  },
+  {
+    "category": "Ethic Wear",
+    "about": "Kids Printed Ethnic Set",
+    "price": "999",
+    "mrp": "1999",
+    "discount": "50%off",
+    "imgUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/25/MM5j3LLm_e0d0b107d92d4bcf9479fc0d3944d4ec.jpg",
+    "images": [
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/FEBRUARY/25/MM5j3LLm_e0d0b107d92d4bcf9479fc0d3944d4ec.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/FEBRUARY/25/MYe39o0n_d670b1c143204244992dfa143595e110.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/FEBRUARY/25/MzZDOhoL_db25354e394346aa8e9590270c9d472f.jpg",
+        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/FEBRUARY/25/LqXLv7zy_1fb9222d80254f51bc3990a8d3b669d8.jpg"
+    ],
+    "productDetails": {
+      "color": "Yellow",
+      "fabric": "Cotton"
+    },
+    "sizeAndFit": {
+      "fitType": "Comfort",
+      "ageGroup": "4-5 Years"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+@media only screen and (max-width: 500px) {
+    #wishlist {
+        padding: 5px;
+    }
+    #wishlist h1{
+        margin-bottom: 3px;
+    }
+
+    #wishlist>div {
+        display: grid;
+        gap: 2px;
+        grid-template-columns: auto auto;
+        
+    }
+
+    #wishlist img {
+        width: 40vw;
+        margin: 1px auto;
+    }
+    #wishlist h2 {
+        font-size: medium;
+    }
+    #wishlist #whishlist_item {
+        margin-top: 50px;
+        padding: 3px;
+        font-size: small;
+    }
+    #wishlist #price_info {
+        font-size: small;
+    }
+}

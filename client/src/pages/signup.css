@@ -1,0 +1,29 @@
+@media only screen and (max-width: 500px) {
+    #signup {
+        width: 87vw;
+    }
+
+    #signup img {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 800px) {
+    #signup {
+        width: 85vw;
+    }
+
+    #signup img {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1024px) {
+    #signup {
+        width: 75vw;
+    }
+
+    #signup img {
+        width: 100%;
+    }
+}
