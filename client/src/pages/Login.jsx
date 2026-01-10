@@ -31,17 +31,10 @@ const Login = () => {
                 },
                 body: JSON.stringify(user)
             });
-            // console.log("Login form", response)
-            // const res_data = await response.json();
-
 
             const res_data = await response.json();
             console.log("Response from server ", res_data.message)
             if (response.ok) {
-                // toast.success("Login successfuly");
-                // storetokenInLS(res_data.token)
-
-
                 toast.success(res_data.message)
                 storetokenInLS(res_data.token);
                 setUser({
@@ -65,7 +58,7 @@ const Login = () => {
                         <span className='font-bold text-lg'>Login </span>
                     </div>
                     <div>
-                        <input type="email" name='email' id='email' value={user.username} onChange={handleInput} required autoComplete='off' placeholder='Enter your email' className='text-sm px-2 py-2 border border-gray-300 w-full  outline-none' />
+                        <input type="email" name='email' id='email' value={user.email} onChange={handleInput} required autoComplete='off' placeholder='Enter your email' className='text-sm px-2 py-2 border border-gray-300 w-full  outline-none' />
                     </div>
                     <div>
                         <input type="password" name='password' id='password' value={user.password} onChange={handleInput} required autoComplete='off' placeholder='Enter your password' className='text-sm px-2 py-2 border border-gray-300 w-full  outline-none' />

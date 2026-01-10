@@ -1,7 +1,7 @@
 import { createContext, useContext, useEffect } from "react";
 import { useState } from "react";
 import React from "react";
-export const AuthContext = createContext();
+export const AuthContext = createContext(); 
 
 export const AuthProvider = ({ children }) => {
     const [token, setToken] = useState(localStorage.getItem('token'))
@@ -161,15 +161,15 @@ export const AuthProvider = ({ children }) => {
 
 
     useEffect(() => {
-    if (token) {
-        userAuthentication();
-    } else {
-        setUser("");
-        setIsLoading(false);
-    }
-}, [token]);
+        if (token) {
+            userAuthentication();
+        } else {
+            setUser("");
+            setIsLoading(false);
+        }
+    }, [token]);
 
-   
+
 
 
     return <AuthContext.Provider value={{ isLoggedIn, storetokenInLS, LogoutUser, user, services, deals, categories, mens, womens, kids, beauty, genz, authorizationToken, isLoading }}>

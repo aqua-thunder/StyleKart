@@ -1,73 +1,21 @@
-onClick={handleWishlist}
+create server folder
+run npm init -y
+run npm i express
+create server.js file
+run npm i nodemon
+create router
+create contoller
+creating collection in postman
+Sending a GET Request for Registration
+Sending a POST Request for Registration
+Using JSON Middleware in Express
+Sending a GET Request for Registration
+Sending a POST Request for Registration
+Using JSON Middleware in Express
+Installing the Dotenv Package
+Connecting Backend with MongoDB Atlas
+Understanding the Need for the Dotenv Package
+Adding Dotenv to Our App
+Creating the Registration Schema
+Building the Model
 
-const handleWishlist = async ()=>{
-    if(!user){
-        alert("Please login first")
-    }
-    try{
-
-    const respnse = await fetch("http://localhost:7000/api/wishlist/add",{
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-            Authorization: authenticationToken
-        },
-        body: JSON.stringify({
-            userId = user._id,
-            productId = id,
-            productDetail = info
-        })
-    }
-    );
-    const data = await respnse.json();
-    toast.success("Add in wishlist");
-    }catch(error){
-        console.log(error)
-    }
-}
-
-//server.json
-app.use("/api/wishlist", wishlistRoute)
-
-
-
-//wishlit-router.js
-const {addToWishlist, getToWishlist, deleteToWishlist} = require("../controller/wishlist-contoller.js)
-
-router.post("/add", addToWishlist)
-router.get("/:userId", getToWishlist)
-router.delete("/remove/:id", deleteToWishlist)
-
-
-//wishlist-controller.js
-const Wishlist = require("../model/wishlist-model.js)
-
-const addToWishlist = async (req,res)=>{
-    try{
-
-    const {productId} = req.body;
-    cont {userId} = req.body;
-    const {productDetail} = req.body;
-
-    if(!userId || !productId || !productDetail){
-        res.status(404).json({msg: "Missing Data"})
-    }
-
-    const exist = await Wishlist.findOne(userId, productId)
-    if(exist){
-        res.status(400).json({msg: "it is already in wishlist})
-    }
-
-    const item = await Wishlist.create({
-        userId,
-        productId,
-        productDetail
-    });
-
-    res.status(200).json(item)
-    }
-    catch(error)[
-        console.log(error)
-    ]
-    
-}

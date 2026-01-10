@@ -1,8 +1,6 @@
 const jwt = require("jsonwebtoken");
 const User = require("../models/user-model")
 const authMiddleware = async (req, res, next) => {
-
-
     const token = req.header('Authorization')
     if (!token) {
         return res
@@ -10,11 +8,10 @@ const authMiddleware = async (req, res, next) => {
             .json({ msg: "Unauthorized HTTP, Token not provided" });
     }
     const jwtToken = token.replace("Bearer", "").trim();
-
-
     console.log('token from auth Middleware', jwtToken)
+
     try {
-        const isVarified = jwt.verify(jwtToken, process.env.JWT_SECRET_KEY);
+        const isVarified = jwt.verify(jwtToken, process.env.JWT_SECRET);
 
         const userData = await User.findOne({ email: isVarified.email })
 

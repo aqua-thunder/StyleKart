@@ -41,7 +41,7 @@ const Navbar = () => {
     <Hamburger hamburger={hamburger} />
   }
 
-  return (
+  return ( 
     <>
       <header className='sticky top-0 z-10 bg-white'>
         <div className=" container px-10 shadow-md shadow-black-600/50" id='navbar'>
@@ -56,7 +56,7 @@ const Navbar = () => {
               <li className='font-bold text-[#464959]'><NavLink to="/kids">KIDS</NavLink></li>
               <li className='font-bold text-[#464959]'><NavLink to="/beauty">BEAUTY</NavLink></li>
               <li className='font-bold text-[#464959]'><NavLink to="/genz">GENZ</NavLink></li>
-              <li className='font-bold text-[#464959]'><NavLink to="/studio">STUDIO</NavLink></li>
+              {/* <li className='font-bold text-[#464959]'><NavLink to="/studio">STUDIO</NavLink></li> */}
               <li className='font-bold text-[#464959]' id='home_none' ><NavLink to="/">HOME</NavLink></li>
             </ul>
             <div className='w-[50%] flex items-center justify-between' >
@@ -104,7 +104,6 @@ const Navbar = () => {
                       <h2 className='text-gray-800'>To access acount and manage orders</h2>
                       <NavLink to="/signup"><button onClick={profileOut} className='text-[#ff3f6c] font-bold border border-gray-200 py-2 px-3 rounded-sm cursor-pointer hover:border-[#ff3f6c]'>Login/Signup</button></NavLink>
                     </div>)
-
                 }
 
                 {/* {

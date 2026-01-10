@@ -28,4 +28,7 @@
     #wishlist #price_info {
         font-size: small;
     }
+    #wishlist #cross_img {
+        width: 5vw;
+    }
 }

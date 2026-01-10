@@ -28,10 +28,11 @@ app.use("/api/wishlist", wishlistRoute);
 app.use("/api/cart", cartRoute)
 app.use(errorMiddleware)
 
-const PORT = 7000;
+const PORT = process.env.PORT || 7000;
 
 connectDb().then(() => {
     app.listen(PORT, () => {
         console.log(`Server listen at port ${PORT}`);
     })
 })
+

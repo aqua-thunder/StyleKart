@@ -58,8 +58,8 @@ const AppContent = () => {
         <Route path='/Logout' element={<Logout />} />
         <Route path='/Service' element={<Service />} />
         <Route path='/product/:id' element={<Product />} />
-        <Route path='/Wishlist' element={<Wishlist/>}/>
-        <Route path='/Cart' element={<Cart/>}/>
+        <Route path='/Wishlist' element={<Wishlist />} />
+        <Route path='/Cart' element={<Cart />} />
         <Route path='*' element={<Error />} />
         <Route path='/admin' element={<Admin_layout />}>
           <Route path='users' element={<Admin_users />} />

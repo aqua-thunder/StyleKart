@@ -1,13 +1,6 @@
 const { Schema, model } = require("mongoose")
 
 const serviceSchema = new Schema({
-    // productName: { type: String, required: true },
-    // description: { type: String, required: true },
-    // MRP: { type: String, required: true },
-    // discount: { type: String, required: true },
-    // company: { type: String, required: true },
-    // imgUrl: { type: String, required: true }
-
     category: { type: String, required: true },
     about: { type: String, required: true },
     price: { type: String, required: true },

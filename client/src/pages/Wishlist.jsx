@@ -33,10 +33,12 @@ const Wishlist = () => {
     };
 
     useEffect(() => {
-        if (authorizationToken) {
+        if (authorizationToken && user) {
+            setLoading(true);
             fetchWishlist();
         }
-    }, [authorizationToken]);
+    }, [authorizationToken, user]);
+
 
     // Remove item from wishlist
     const removeItem = async (id) => {
@@ -84,7 +86,7 @@ const Wishlist = () => {
             <h1 className="text-[20px] font-semibold mb-6">My Wishlist : <span className="text-gray-600">{wishlist.length}</span></h1>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-6 gap-6">
                 {wishlist.map((item) => (
-                    <div key={item._id} className=" rounded-lg shadow hover:shadow-lg p-4 flex flex-col" id="whishlist_item">
+                    <div key={item._id} className="relative rounded-lg shadow hover:shadow-lg  flex flex-col" id="whishlist_item">
                         {/* Product Image */}
                         <img
                             src={item.productDetails.imgUrl}
@@ -93,20 +95,18 @@ const Wishlist = () => {
                         />
 
                         {/* Product Info */}
-                        <h2 className="font-bold sm:text-sm  mb-1">{item.productDetails.category}</h2>
-                        <div className="flex items-center mb-2" id="price_info">
-                            <span className="font-bold text-lg">₹{item.productDetails.price}</span>
-                            <span className="text-gray-400 line-through ml-2">₹{item.productDetails.mrp}</span>
-                            <span className="text-[#ff955a] ml-2">{item.productDetails.discount}</span>
+                        <div className="px-4">
+                            <h2 className=" sm:text-[17px] line-clamp-1  mb-1">{item.productDetails.about}</h2>
+                            <div className="flex items-center mb-2" id="price_info">
+                                <span className="font-bold text-lg">₹{item.productDetails.price}</span>
+                                <span className="text-gray-400 line-through ml-2">₹{item.productDetails.mrp}</span>
+                                <span className="text-[#ff955a] ml-2">{item.productDetails.discount}</span>
+                            </div>
                         </div>
+                        <img src="../../../images/SVG/cross.svg" onClick={() => removeItem(item._id)} className="absolute bg-[#131212] rounded-full right-3 top-3 invert-100 w-5" id="cross_img" alt="cross img" />
 
                         {/* Remove Button */}
-                        <button
-                            onClick={() => removeItem(item._id)}
-                            className="bg-[#ff3e6c] hover:bg-[#eb5c7d] text-white py-2 rounded-md font-semibold mt-auto cursor-pointer"
-                        >
-                            Remove
-                        </button>
+                        <button className="text-[#eb5c7d] py-2 rounded-md font-bold mt-auto cursor-pointer">MOVE TO BAG</button>
                     </div>
                 ))}
             </div>

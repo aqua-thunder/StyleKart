@@ -33,10 +33,11 @@ const Cart = () => {
     };
 
     useEffect(() => {
-        if (authorizationToken) {
+        if (authorizationToken && user) {
+            setLoading(true);
             fetchCart();
         }
-    }, [authorizationToken]);
+    }, [authorizationToken, user]);
 
     // Remove item from cart
     const removeItem = async (id) => {
@@ -86,7 +87,7 @@ const Cart = () => {
             {Array.isArray(cart) && cart.length > 0 ? (
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-6 gap-6">
                     {cart.map((item) => (
-                        <div key={item._id} className=" rounded-lg shadow hover:shadow-lg p-4 flex flex-col" id="whishlist_item">
+                        <div key={item._id} className=" rounded-lg shadow hover:shadow-lg  flex flex-col" id="whishlist_item">
                             {/* Product Image */}
                             <img
                                 src={item.productDetails.imgUrl}
@@ -95,11 +96,13 @@ const Cart = () => {
                             />
 
                             {/* Product Info */}
-                            <h2 className="font-bold sm:text-sm  mb-1">{item.productDetails.category}</h2>
-                            <div className="flex items-center mb-2" id="price_info">
-                                <span className="font-bold text-lg">₹{item.productDetails.price}</span>
-                                <span className="text-gray-400 line-through ml-2">₹{item.productDetails.mrp}</span>
-                                <span className="text-[#ff955a] ml-2">{item.productDetails.discount}</span>
+                            <div className="px-4">
+                                <h2 className="font-bold sm:text-sm  mb-1">{item.productDetails.category}</h2>
+                                <div className="flex items-center mb-2" id="price_info">
+                                    <span className="font-bold text-lg">₹{item.productDetails.price}</span>
+                                    <span className="text-gray-400 line-through ml-2">₹{item.productDetails.mrp}</span>
+                                    <span className="text-[#ff955a] ml-2">{item.productDetails.discount}</span>
+                                </div>
                             </div>
 
                             {/* Remove Button */}
