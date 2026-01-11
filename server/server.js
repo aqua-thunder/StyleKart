@@ -22,7 +22,7 @@ const corsOptions = {
     origin: [
         "http://localhost:5173",
         // "https://YOUR-NETLIFY-SITE.netlify.app"
-        "https://styleskart.netlify.app/"
+        "https://styleskart.netlify.app"
     ],
     methods: "GET, POST, PUT, DELETE, PATCH, HEAD",
     credentials: true,
