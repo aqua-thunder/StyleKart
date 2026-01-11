@@ -8,6 +8,8 @@ import Slider from 'react-slick';
 import GoToTop from './GoToTop'
 
 const Product = () => {
+  const API_URL = import.meta.env.VITE_API_URL;
+
   const { id } = useParams();
   const [info, setInfo] = useState(null);
   const { user, authorizationToken } = useAuth();
@@ -67,7 +69,7 @@ const Product = () => {
     }
 
     try {
-      const response = await fetch("http://localhost:7000/api/wishlist/add",
+      const response = await fetch(`${API_URL}/api/wishlist/add`,
         {
           method: "POST",
           headers: {
@@ -95,7 +97,7 @@ const Product = () => {
       toast.alt("Please Login First")
     }
     try {
-      const response = await fetch("http://localhost:7000/api/cart/add", {
+      const response = await fetch(`${API_URL}/api/cart/add`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

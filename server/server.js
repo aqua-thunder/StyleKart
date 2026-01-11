@@ -13,11 +13,21 @@ const cartRoute = require("./router/cart-router.js")
 const connectDb = require("./utils/db.js");
 const errorMiddleware = require("./middlewares/error-middleware.js");
 
+// const corsOptions = {
+//     origin: "http://localhost:5173",
+//     methods: "GET, POST , PUT , DELETE, PATCH, HEAD",
+//     credentials: true
+// }
 const corsOptions = {
-    origin: "http://localhost:5173",
-    methods: "GET, POST , PUT , DELETE, PATCH, HEAD",
-    credentials: true
-}
+    origin: [
+        "http://localhost:5173",
+        // "https://YOUR-NETLIFY-SITE.netlify.app"
+        "https://styleskart.netlify.app/"
+    ],
+    methods: "GET, POST, PUT, DELETE, PATCH, HEAD",
+    credentials: true,
+};
+
 app.use(cors(corsOptions));
 app.use(express.json())
 app.use("/api/auth", authRoute)

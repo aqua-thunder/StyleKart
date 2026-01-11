@@ -4,6 +4,8 @@ import { useParams } from 'react-router-dom'
 import { useAuth } from '../store/auth'
 import { toast } from 'react-toastify'
 const Admin_Update = () => {
+  const API_URL = import.meta.env.VITE_API_URL;
+
     const [data, setData] = useState(({
         username: "",
         email: "",
@@ -14,7 +16,7 @@ const Admin_Update = () => {
     const params = useParams();
     const getSingleUserData = async (id) => {
         try {
-            const response = await fetch(`http://localhost:7000/api/admin/users/${params.id}`, {
+            const response = await fetch(`${API_URL}/api/admin/users/${params.id}`, {
                 method: "GET",
                 headers: {
                     Authorization: authorizationToken
@@ -43,7 +45,7 @@ const Admin_Update = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await fetch(`http://localhost:7000/api/admin/users/update/${params.id}`, {
+            const response = await fetch(`${API_URL}/api/admin/users/update/${params.id}`, {
                 method: "PATCH",
                 headers: {
                     "Content-Type": "application/json",

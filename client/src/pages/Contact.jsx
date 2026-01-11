@@ -10,6 +10,8 @@ const defaultContactFormData = {
     message: ""
 }
 const Contact = () => {
+    const API_URL = import.meta.env.VITE_API_URL;
+
     const [contact, setContact] = useState(defaultContactFormData);
     const [userData, setUserData] = useState(true)
     const { user } = useAuth();
@@ -32,7 +34,7 @@ const Contact = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await fetch("http://localhost:7000/api/form/contact", {
+            const response = await fetch(`${API_URL}/api/form/contact`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"

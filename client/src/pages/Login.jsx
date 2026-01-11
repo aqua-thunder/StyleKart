@@ -6,6 +6,8 @@ import { toast } from 'react-toastify';
 
 import './login.css'
 const Login = () => {
+  const API_URL = import.meta.env.VITE_API_URL;
+
     const [user, setUser] = useState({
         email: "",
         password: ""
@@ -24,7 +26,7 @@ const Login = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await fetch("http://localhost:7000/api/auth/login", {
+            const response = await fetch(`${API_URL}/api/auth/login`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"

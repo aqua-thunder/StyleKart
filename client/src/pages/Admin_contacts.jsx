@@ -3,11 +3,13 @@ import { useAuth } from '../store/auth'
 import { useState, useEffect } from 'react'
 
 const Admin_contacts = () => {
+  const API_URL = import.meta.env.VITE_API_URL;
+
   const [contacts, setContacts] = useState('')
   const { authorizationToken } = useAuth();
   const getAllContacts = async (req, res) => {
     try {
-      const response = await fetch("http://localhost:7000/api/admin/contacts", {
+      const response = await fetch(`${API_URL}/api/admin/contacts`, {
         method: "GET",
         headers: {
           Authorization: authorizationToken,
@@ -23,7 +25,7 @@ const Admin_contacts = () => {
 
   const deleteContact = async (id) => {
     try {
-      const response = await fetch(`http://localhost:7000/api/admin/contacts/delete/${id}`, {
+      const response = await fetch(`${API_URL}/api/admin/contacts/delete/${id}`, {
         method: "DELETE",
         headers: {
           Authorization: authorizationToken,

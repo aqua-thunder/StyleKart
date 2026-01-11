@@ -4,6 +4,7 @@ import { useAuth } from '../store/auth';
 import GoToTop from './GoToTop';
 import { Link } from 'react-router-dom';
 const Beauty = () => {
+
   const { beauty } = useAuth();
 
   return (

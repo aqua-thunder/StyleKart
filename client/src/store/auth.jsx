@@ -4,6 +4,8 @@ import React from "react";
 export const AuthContext = createContext(); 
 
 export const AuthProvider = ({ children }) => {
+    const API_URL = import.meta.env.VITE_API_URL;
+
     const [token, setToken] = useState(localStorage.getItem('token'))
     const [user, setUser] = useState('')
     const [isLoading, setIsLoading] = useState(true)
@@ -35,7 +37,7 @@ export const AuthProvider = ({ children }) => {
     const userAuthentication = async () => {
         try {
             setIsLoading(true)
-            const response = await fetch("http://localhost:7000/api/auth/user", {
+            const response = await fetch(`${API_URL}/api/auth/user`, {
                 method: "GET",
                 headers: {
                     Authorization: authorizationToken
@@ -58,7 +60,7 @@ export const AuthProvider = ({ children }) => {
     // To fetch the services data fromt the databse
     const getServices = async () => {
         try {
-            const response = await fetch("http://localhost:7000/api/data/service", {
+            const response = await fetch(`${API_URL}/api/data/service`, {
                 method: "GET",
             });
             if (response.ok) {
@@ -73,7 +75,7 @@ export const AuthProvider = ({ children }) => {
 
     // To fetch the deals data fromt he database
     const getDeals = async () => {
-        const response = await fetch("http://localhost:7000/api/data/deal", {
+        const response = await fetch(`${API_URL}/api/data/deal`, {
             method: "GET",
         })
         if (response.ok) {
@@ -84,7 +86,7 @@ export const AuthProvider = ({ children }) => {
 
     // To fetch the category data from the database
     const getCategories = async () => {
-        const response = await fetch("http://localhost:7000/api/data/Categorie", {
+        const response = await fetch(`${API_URL}/api/data/Categorie`, {
             method: "GET"
         })
         if (response.ok) {
@@ -94,7 +96,7 @@ export const AuthProvider = ({ children }) => {
     }
     // To fetch the Mens data from the database
     const getMens = async () => {
-        const response = await fetch("http://localhost:7000/api/data/men", {
+        const response = await fetch(`${API_URL}/api/data/men`, {
             method: "GET"
         })
         if (response.ok) {
@@ -105,7 +107,7 @@ export const AuthProvider = ({ children }) => {
 
     // To fetch the Womens data from the database
     const getWomens = async () => {
-        const response = await fetch("http://localhost:7000/api/data/women", {
+        const response = await fetch(`${API_URL}/api/data/women`, {
             method: "GET"
         })
         if (response.ok) {
@@ -116,7 +118,7 @@ export const AuthProvider = ({ children }) => {
 
     // To fetch the Kids data from the database
     const getKids = async () => {
-        const response = await fetch("http://localhost:7000/api/data/kid", {
+        const response = await fetch(`${API_URL}/api/data/kid`, {
             method: "GET",
         })
         if (response.ok) {
@@ -127,7 +129,7 @@ export const AuthProvider = ({ children }) => {
 
     // To fetch the Beauty data from the database
     const getBeauty = async () => {
-        const response = await fetch("http://localhost:7000/api/data/beauty", {
+        const response = await fetch(`${API_URL}/api/data/beauty`, {
             method: "GET"
         })
         if (response.ok) {
@@ -138,7 +140,7 @@ export const AuthProvider = ({ children }) => {
 
     // To fetch the Genz data from the database
     const getGenz = async () => {
-        const response = await fetch("http://localhost:7000/api/data/genz", {
+        const response = await fetch(`${API_URL}/api/data/genz`, {
             method: "GET"
         })
         if (response.ok) {

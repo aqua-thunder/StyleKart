@@ -6,6 +6,8 @@ import { toast } from 'react-toastify'
 import './signup.css'
 
 const Signup = () => {
+  const API_URL = import.meta.env.VITE_API_URL;
+
     const [user, setUser] = useState({
         username: "",
         email: "",
@@ -30,7 +32,7 @@ const Signup = () => {
         e.preventDefault();
         console.log(user)
         try {
-            const response = await fetch("http://localhost:7000/api/auth/register", {
+            const response = await fetch(`${API_URL}/api/auth/register`, {
                 method: "POST",
                 headers: {
                     'Content-Type': "application/json"

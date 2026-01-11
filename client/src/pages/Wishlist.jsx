@@ -6,6 +6,8 @@ import './wishlist.css'
 
 
 const Wishlist = () => {
+  const API_URL = import.meta.env.VITE_API_URL;
+
     const { user, authorizationToken } = useAuth();
     const [wishlist, setWishlist] = useState([]);
     const [loading, setLoading] = useState(true);
@@ -15,7 +17,7 @@ const Wishlist = () => {
         if (!user) return;
         try {
             const response = await fetch(
-                `http://localhost:7000/api/wishlist/${user._id}`,
+                `${API_URL}/api/wishlist/${user._id}`,
                 {
                     method: "GET",
                     headers: {
@@ -44,7 +46,7 @@ const Wishlist = () => {
     const removeItem = async (id) => {
         try {
             const response = await fetch(
-                `http://localhost:7000/api/wishlist/remove/${id}`,
+                `${API_URL}/api/wishlist/remove/${id}`,
                 {
                     method: "DELETE",
                     headers: {
