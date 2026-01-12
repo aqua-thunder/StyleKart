@@ -9,14 +9,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 const Home = () => {
 
-  const [sliderKey, setSliderKey] = useState(0);
-
-  useEffect(() => {
-    setSliderKey(prev => prev + 1);
-
-    // force slick resize
-    window.dispatchEvent(new Event("resize"));
-  }, []);
+ 
 
 
   const { services } = useAuth();
@@ -88,7 +81,7 @@ const Home = () => {
         <h2 className="text-3xl text-[#3e4152] font-bold px-10 py-[6vw] tracking-[6px]">RISING STARS</h2>
         {Array.isArray(services) && services.length > 0 ? (
           <div className="slider-container">
-            <Slider key={sliderKey} {...settings}>
+            <Slider  {...settings}>
               {services.map((service, index) => (
                 <div key={index}>
                   <div className="bg-white text-center">
