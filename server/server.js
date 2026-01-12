@@ -25,7 +25,7 @@ const corsOptions = {
         "https://stylekaart.netlify.app"
     ],
     methods: "GET, POST, PUT, DELETE, PATCH, HEAD",
-    credentials: true,
+
 };
 
 app.use(cors(corsOptions));
