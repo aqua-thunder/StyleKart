@@ -48,7 +48,7 @@ const Navbar = () => {
           <Hamburger />
           <nav className='flex items-center text-sm '>
             <NavLink to="/"><img src="../../public/images/SVG/hamburger_menu.svg" onClick={hamburgerOn} className='w-[7vw] pl-6 pr-14 hidden hamburger' alt="hamburger" /></NavLink>
-            <NavLink to="/"><img src="logo.png" className='w-[10vw] pl-6 pr-14' id='logo' alt="logo" /></NavLink>
+            <NavLink to="/"><img src="/images/logo.png" className='w-[10vw] pl-6 pr-14' id='logo' alt="logo" /></NavLink>
 
             <ul className='bg-[#ffffff] w-[50%] flex  items-center space-x-10' id='display_none'>
               <li className='font-bold text-[#464959]'><NavLink to="/men">MEN</NavLink></li>
