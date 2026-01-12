@@ -18,13 +18,15 @@ const errorMiddleware = require("./middlewares/error-middleware.js");
 //     methods: "GET, POST , PUT , DELETE, PATCH, HEAD",
 //     credentials: true
 // }
-app.use(cors({
+const corsOptions = {
     origin: [
-        "https://stylekaart.netlify.app", // your frontend URL
-        "http://localhost:5173"           // local dev frontend
+        "http://localhost:5173",
+        // "https://YOUR-NETLIFY-SITE.netlify.app"
+        "https://stylekaart.netlify.app"
     ],
-    credentials: true
-}));
+    methods: "GET, POST, PUT, DELETE, PATCH, HEAD",
+    credentials: true,
+};
 
 app.use(cors(corsOptions));
 app.use(express.json())
