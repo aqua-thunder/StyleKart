@@ -25,20 +25,20 @@ const Hamburger = (props) => {
                         <img onClick={FilterClose} className='bg-gray-900 rounded-full invert w-5 cursor-pointer' src="/images/SVG/cross.svg" alt="" />
                     </div>
                     <ul className='  border border-gray-200 flex flex-col rounded-lg space-y-10 mt-5 py-7 pl-7 text-sm font-semibold '>
-                        <NavLink to="/men" className='cursor-pointer'>Men</NavLink>
-                        <NavLink to="/women" className='cursor-pointer'>Women</NavLink>
-                        <NavLink to="/kids" className='cursor-pointer'>Kids</NavLink>
-                        <NavLink to="/beauty" className='cursor-pointer'>Beauty</NavLink>
-                        <NavLink to="/genz" className='cursor-pointer'>Genz</NavLink>
-                        <NavLink to="/wishlist" className='cursor-pointer'>Wishlist</NavLink>
-                        <NavLink to="/cart" className='cursor-pointer'>Cart</NavLink>
-                        <NavLink to="/account" className='cursor-pointer'>Account</NavLink>
-                        <NavLink to="/orders" className='cursor-pointer'>Orders</NavLink>
-                        <NavLink to="/myntraMail" className='cursor-pointer'>Mall</NavLink>
-                        <NavLink to="/myntraInsiders" className='cursor-pointer'>Insiders</NavLink>
-                        <NavLink to="/contact" className='cursor-pointer'>Contactli</NavLink>
-                        <NavLink to="/FAQ" className='cursor-pointer'>FAQs</NavLink>
-                        <NavLink to="/legal" className='cursor-pointer'>Legal</NavLink>
+                        <NavLink to="/men" onClick={FilterClose} className='cursor-pointer'>Men</NavLink>
+                        <NavLink to="/women" onClick={FilterClose} className='cursor-pointer'>Women</NavLink>
+                        <NavLink to="/kids" onClick={FilterClose} className='cursor-pointer'>Kids</NavLink>
+                        <NavLink to="/beauty" onClick={FilterClose} className='cursor-pointer'>Beauty</NavLink>
+                        <NavLink to="/genz" onClick={FilterClose} className='cursor-pointer'>Genz</NavLink>
+                        <NavLink to="/wishlist" onClick={FilterClose} className='cursor-pointer'>Wishlist</NavLink>
+                        <NavLink to="/cart" onClick={FilterClose} className='cursor-pointer'>Cart</NavLink>
+                        <NavLink to="/account" onClick={FilterClose} className='cursor-pointer'>Account</NavLink>
+                        <NavLink to="/orders" onClick={FilterClose} className='cursor-pointer'>Orders</NavLink>
+                        <NavLink to="/myntraMail" onClick={FilterClose} className='cursor-pointer'>Mall</NavLink>
+                        <NavLink to="/myntraInsiders" onClick={FilterClose} className='cursor-pointer'>Insiders</NavLink>
+                        <NavLink to="/contact" onClick={FilterClose} className='cursor-pointer'>Contactli</NavLink>
+                        <NavLink to="/FAQ" onClick={FilterClose} className='cursor-pointer'>FAQs</NavLink>
+                        <NavLink to="/legal" onClick={FilterClose} className='cursor-pointer'>Legal</NavLink>
                         <NavLink to="" className='cursor-pointer'>Virtual Try On</NavLink>
                     </ul>
                 </div>
