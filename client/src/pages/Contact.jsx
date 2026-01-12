@@ -64,7 +64,7 @@ const Contact = () => {
                         <div className='border border-gray-300 flex justify-between items-center p-3' id='orders'>
                             <div className='flex space-x-3'>
                                 <div>
-                                    <img src="../../images/SVG/bag.svg" width={35} alt="bag" />
+                                    <img src="../../public/images/SVG/bag.svg" width={35} alt="bag" />
                                 </div>
                                 <div>
                                     <h2 className='text-[11px] font-bold '>TRACK, CANCLE, RETURN/EXCHANGE</h2>
@@ -83,25 +83,25 @@ const Contact = () => {
                         <ul className='text-[13px] space-y-6 font-bold text-gray-500' id='quries'>
                             <div className='flex items-center justify-between'>
                                 <li className='text-black cursor-pointer'>SELECT QUERY TYPE</li>
-                                <img src="../../images/right-arrow.svg" className='mr-8' width={18} alt="" />
+                                <img src="../../public/images/right-arrow.svg" className='mr-8' width={18} alt="" />
                             </div>
                             <div className='flex items-center justify-between'>
                                 <li className='cursor-pointer'>Order Related Queries</li>
-                                <img src="../../images/right-arrow.svg" className='mr-8' width={18} alt="" />
+                                <img src="../../public/images/right-arrow.svg" className='mr-8' width={18} alt="" />
                             </div>
                             <div className='flex items-center justify-between'>
                                 <li className='cursor-pointer'>Non-order Related Issues</li>
-                                <img src="../../images/right-arrow.svg" className='mr-8' width={18} alt="" />
+                                <img src="../../public/images/right-arrow.svg" className='mr-8' width={18} alt="" />
                             </div>
                             <div className='flex items-center justify-between'>
                                 <li className='cursor-pointer'>Recent Issues</li>
-                                <img src="../../images/right-arrow.svg" className='mr-8' width={18} alt="" />
+                                <img src="../../public/images/right-arrow.svg" className='mr-8' width={18} alt="" />
                             </div>
                             <div className="line bg-gray-200 w-[90%] start-0 h-[1px] m-auto"></div>
 
                             <div className='flex items-center justify-between mt-5'>
                                 <li className=' cursor-pointer'>Frequenty Asked Question</li>
-                                <img src="../../images/right-arrow.svg" className='mr-8' width={18} alt="" />
+                                <img src="../../public/images/right-arrow.svg" className='mr-8' width={18} alt="" />
                             </div>
                         </ul>
                     </div>

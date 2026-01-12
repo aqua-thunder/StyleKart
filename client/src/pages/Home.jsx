@@ -54,16 +54,16 @@ const Home = () => {
       <div className="slider-container">
         <Slider {...crousal}>
           <div className='cursor-pointer'>
-            <img src="../../images/Crousal/img1.webp" alt="" />
+            <img src="../../public/images/Crousal/img1.webp" alt="" />
           </div>
           <div className='cursor-pointer'>
-            <img src="../../images/Crousal/img2.webp" alt="" />
+            <img src="../../public/images/Crousal/img2.webp" alt="" />
           </div>
           <div className='cursor-pointer'>
-            <img src="../../images/Crousal/img3.webp" alt="" />
+            <img src="../../public/images/Crousal/img3.webp" alt="" />
           </div>
           <div className='cursor-pointer'>
-            <img src="../../images/Crousal/img4.webp" alt="" />
+            <img src="../../public/images/Crousal/img4.webp" alt="" />
           </div>
 
         </Slider>

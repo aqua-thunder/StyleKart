@@ -22,7 +22,7 @@ const Hamburger = (props) => {
                 <div className='p-5' >
                     <div className='flex justify-between items-center'>
                         <h1 className='text-center text-[21px]'>Account</h1>
-                        <img onClick={FilterClose} className='bg-gray-900 rounded-full invert w-5 cursor-pointer' src="../images/SVG/cross.svg" alt="" />
+                        <img onClick={FilterClose} className='bg-gray-900 rounded-full invert w-5 cursor-pointer' src="../public/images/SVG/cross.svg" alt="" />
                     </div>
                     <ul className='  border border-gray-200 rounded-lg space-y-10 mt-5 py-7 pl-7 text-sm font-semibold '>
                         <li className='cursor-pointer'><NavLink to="/men">Men</NavLink></li>
