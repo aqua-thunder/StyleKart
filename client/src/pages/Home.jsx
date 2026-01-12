@@ -11,33 +11,62 @@ const Home = () => {
   const { deals } = useAuth();
   const { categories } = useAuth();
 
-  const settings = {
-    dots: true,
-    infinite: true,
-    slidesToShow: 5,
-    slidesToScroll: 5,
-    autoplay: true,
-    speed: 1000,
-    autoplaySpeed: 3000,
-    cssEase: "linear",
+  // const settings = {
+  //   dots: true,
+  //   infinite: true,
+  //   slidesToShow: 5,
+  //   slidesToScroll: 5,
+  //   autoplay: true,
+  //   speed: 1000,
+  //   autoplaySpeed: 3000,
+  //   cssEase: "linear",
 
-    responsive: [
-      {
-        breakpoint: 500,   // for <500px
-        settings: {
-          slidesToShow: 4,
-          slidesToScroll: 4,
-        },
+  //   responsive: [
+  //     {
+  //       breakpoint: 800,   // for <500px
+  //       settings: {
+  //         slidesToShow: 4,
+  //         slidesToScroll: 4,
+  //       },
+  //     },
+  //     {
+  //       breakpoint: 700,   // for <390px
+  //       settings: {
+  //         slidesToShow: 3,
+  //         slidesToScroll: 3,
+  //       },
+  //     },
+  //   ],
+  // };
+
+  const settings = {
+  dots: true,
+  infinite: true,
+  slidesToShow: 5,
+  slidesToScroll: 5,
+  autoplay: true,
+  speed: 1000,
+  autoplaySpeed: 3000,
+  cssEase: "linear",
+
+  responsive: [
+    {
+      breakpoint: 920, // 300–920px
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
       },
-      {
-        breakpoint: 400,   // for <390px
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 3,
-        },
+    },
+    {
+      breakpoint: 1200, // above 920px (tablet / small laptop)
+      settings: {
+        slidesToShow: 4,
+        slidesToScroll: 4,
       },
-    ],
-  };
+    },
+  ],
+};
+
   const crousal = {
     dots: true,
     infinite: true,

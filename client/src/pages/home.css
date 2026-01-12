@@ -35,9 +35,11 @@ body {
     justify-content: space-around;
     gap: 10px;
   }
+
+ 
 }
 
-@media only screen and (min-width: 500px) and (max-width: 800px) {
+@media only screen and (min-width: 500px) and (max-width: 942px) {
   #home #SHOP-BY-CATEGORY .padding {
     padding: 0px;
   }
@@ -51,13 +53,14 @@ body {
 
   #home #SHOP-BY-CATEGORY .grid {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto;
     justify-content: space-around;
     padding: 10px;
     gap: 10px;
   }
+  
 }
-@media only screen and (min-width: 800px) and (max-width: 1024px) {
+@media only screen and (min-width: 942px) and (max-width: 1024px) {
   #home #SHOP-BY-CATEGORY .padding {
     padding: 0px;
   }

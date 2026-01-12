@@ -34,7 +34,7 @@ const Navbar = () => {
 
     const element = document.getElementById('hamburger')
     if (element) {
-      element.style.width = "60vw"
+      element.style.width = "100%"
       element.style.minHeight = "100%"
       element.style.transition = "0.3s"
     }
