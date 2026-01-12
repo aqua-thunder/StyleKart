@@ -49,7 +49,7 @@ const Product = () => {
 
   const getProductData = async () => {
     try {
-      const response = await fetch(`http://localhost:7000/api/data/product/${id}`, {
+      const response = await fetch(`${API_URL}/api/data/product/${id}`, {
         method: "GET",
         headers: {
           Authorization: authorizationToken
