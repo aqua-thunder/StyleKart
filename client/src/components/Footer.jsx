@@ -30,17 +30,17 @@ const Footer = () => {
                 </div>
                 <div className='display_none'>
                     <h3 className='font-bold mb-5 text-black'>EXPERIENCE MYNTRA APP ON MOBILE</h3>
-                    <button ><img src="../../public/images/Footer/Google Play btn.png" alt="GooglePlaybtn" className='w-36' /></button>
-                    <button className='mx-3'><img src="../../public/images/Footer/App Store btn.png" alt="AppStorebtn" className='w-34' /></button>
+                    <button ><img src="/images/Footer/Google Play btn.png" alt="GooglePlaybtn" className='w-36' /></button>
+                    <button className='mx-3'><img src="/images/Footer/App Store btn.png" alt="AppStorebtn" className='w-34' /></button>
                 </div>
                 <div className='display_none'>
                     <div className='flex items-center w-[20vw] space-x-3'>
-                        <img src="../../public/images/Footer/Original.png" className='w-14' alt="" />
+                        <img src="/images/Footer/Original.png" className='w-14' alt="" />
                         <p className=' '>
                             <span className='font-bold text-black'>100% ORIGINAL</span> guarantee for all products at myntra.com</p>
                     </div>
                     <div className='flex items-center w-[20vw] space-x-3'>
-                        <img src="../../public/images/Footer/14.png" className='w-14' alt="" />
+                        <img src="/images/Footer/14.png" className='w-14' alt="" />
                         <p className=' '>
                             <span className='font-bold text-black'>Return within 14 days</span> of receiving your order</p>
                     </div>

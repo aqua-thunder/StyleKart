@@ -165,7 +165,7 @@ const Product = () => {
               <div className='py-10 space-y-2'>
                 <div className='font-bold text-xl'>{info.category}</div>
                 <div className='font-semi text-xl text-gray-500'>{info.about}</div>
-                <div className='font-bold border text-sm border-gray-300 flex items-center space-x-2 w-40 px-2 py-1 cursor-pointer rounded-md hover:border-black'>4.4 <img src="../../../public/Images/SVG/star.svg" className='w-5' alt="" /> <span className='font-normal text-gray-500'>| 109 Ratings</span></div>
+                <div className='font-bold border text-sm border-gray-300 flex items-center space-x-2 w-40 px-2 py-1 cursor-pointer rounded-md hover:border-black'>4.4 <img src="/Images/SVG/star.svg" className='w-5' alt="" /> <span className='font-normal text-gray-500'>| 109 Ratings</span></div>
                 <div className="line w-[100%] bg-gray-300 h-[1px]"></div>
                 <div className='text-lg font-bold space-x-3' id='priceInfo'>
                   <span className=' text-2xl'>₹{info.price}</span>
@@ -182,7 +182,7 @@ const Product = () => {
                 </div>
                 <div className='space-x-5 flex items-center mt-10' id='buttons'>
                   <button className='bg-[#ff3e6c] hover:bg-[#eb5c7d] text-white font-bold w-[50%] py-4 rounded-md cursor-pointer flex items-center justify-center gap-3' id='add_btn' onClick={handleCart}>
-                    <img src="../../../public/images/SVG/cart.svg" className='invert w-7' alt="" />
+                    <img src="/images/SVG/cart.svg" className='invert w-7' alt="" />
                     <span>ADD TO BAG</span>
                   </button>
                   <button id='wishlist_btn' onClick={handleWishlist} className='border border-gray-300 font-bold w-[40%] py-4 rounded-md cursor-pointer hover:border-gray-800' >WISHLIST</button>

@@ -67,7 +67,7 @@ const Signup = () => {
     return (
         <div className='min-h-screen bg-[#fdefe8] flex justify-center items-center'>
             <div className='bg-white w-[26vw] pb-10' id='signup'>
-                <img src="../../public/images/login.webp" className='mb-10' alt="" />
+                <img src="/images/login.webp" className='mb-10' alt="" />
                 <div >
                     <form onSubmit={handleSubmit} className='px-10 space-y-5'>
                         <div>

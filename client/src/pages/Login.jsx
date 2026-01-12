@@ -54,7 +54,7 @@ const Login = () => {
     return (
         <div className='min-h-screen bg-[#fdefe8] flex justify-center items-center' >
             <div className='bg-white w-[26vw] pb-10' id='login'>
-                <img src="../../public/images/login.webp" className='mb-10' alt="" />
+                <img src="/public/images/login.webp" className='mb-10' alt="" />
                 <form onSubmit={handleSubmit} className='px-10 space-y-5'>
                     <div>
                         <span className='font-bold text-lg'>Login </span>

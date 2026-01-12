@@ -105,7 +105,7 @@ const Wishlist = () => {
                                 <span className="text-[#ff955a] ml-2">{item.productDetails.discount}</span>
                             </div>
                         </div>
-                        <img src="../../../public/images/SVG/cross.svg" onClick={() => removeItem(item._id)} className="absolute bg-[#131212] rounded-full right-3 top-3 invert-100 w-5" id="cross_img" alt="cross img" />
+                        <img src="/images/SVG/cross.svg" onClick={() => removeItem(item._id)} className="absolute bg-[#131212] rounded-full right-3 top-3 invert-100 w-5" id="cross_img" alt="cross img" />
 
                         {/* Remove Button */}
                         <button className="text-[#eb5c7d] py-2 rounded-md font-bold mt-auto cursor-pointer">MOVE TO BAG</button>

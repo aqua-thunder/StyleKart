@@ -47,7 +47,7 @@ const Navbar = () => {
         <div className=" container px-10 shadow-md shadow-black-600/50" id='navbar'>
           <Hamburger />
           <nav className='flex items-center text-sm '>
-            <NavLink to="/"><img src="../../public/images/SVG/hamburger_menu.svg" onClick={hamburgerOn} className='w-[7vw] pl-6 pr-14 hidden hamburger' alt="hamburger" /></NavLink>
+            <NavLink to="/"><img src="/images/SVG/hamburger_menu.svg" onClick={hamburgerOn} className='w-[7vw] pl-6 pr-14 hidden hamburger' alt="hamburger" /></NavLink>
             <NavLink to="/"><img src="/images/logo.png" className='w-[10vw] pl-6 pr-14' id='logo' alt="logo" /></NavLink>
 
             <ul className='bg-[#ffffff] w-[50%] flex  items-center space-x-10' id='display_none'>
@@ -65,7 +65,7 @@ const Navbar = () => {
               <div onMouseOver={profileIn} onMouseOut={profileOut} id='profile'>
                 <NavLink to="/signup" >
                   <div className='h-[70px] flex flex-col justify-center items-center space-y-1'>
-                    <img src="../../../public/images/SVG/profile.svg" className='w-5' alt="" />
+                    <img src="/images/SVG/profile.svg" className='w-5' alt="" />
                     <span className='font-bold text-[12px]'>Profile</span>
                   </div>
                 </NavLink>
@@ -74,7 +74,7 @@ const Navbar = () => {
               <div className='display_none'>
                 <NavLink to="/wishlist">
                   <div className='h-[70px] flex flex-col justify-center items-center space-y-1'>
-                    <img src="../../../public/images/SVG/wishlist.svg" className='w-6' alt="" />
+                    <img src="/images/SVG/wishlist.svg" className='w-6' alt="" />
                     <span className='font-bold text-[12px]'>Wishlist</span>
                   </div>
                 </NavLink>
@@ -83,7 +83,7 @@ const Navbar = () => {
               <div className='display_none'>
                 <NavLink to="/cart">
                   <div className='h-[70px] flex flex-col justify-center items-center space-y-1'>
-                    <img src="../../../public/images/SVG/cart.svg" className='w-6' alt="" />
+                    <img src="/images/SVG/cart.svg" className='w-6' alt="" />
                     <span className='font-bold text-[12px]'>Bag</span>
                   </div>
                 </NavLink>
