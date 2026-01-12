@@ -9,8 +9,6 @@ import "slick-carousel/slick/slick-theme.css";
 
 const Home = () => {
 
- 
-
 
   const { services } = useAuth();
   const { deals } = useAuth();
