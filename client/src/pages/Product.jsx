@@ -266,7 +266,7 @@ const Product = () => {
           </div>
         ) :
           (
-            <div>No found</div>
+            <div>Loading</div>
           )
       }
       <GoToTop />
