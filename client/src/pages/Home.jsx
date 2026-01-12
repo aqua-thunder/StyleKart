@@ -11,34 +11,35 @@ const Home = () => {
   const { deals } = useAuth();
   const { categories } = useAuth();
 
- 
-  const settings = {
-  dots: true,
-  infinite: true,
-  slidesToShow: 5,
-  slidesToScroll: 5,
-  autoplay: true,
-  speed: 1000,
-  autoplaySpeed: 3000,
-  cssEase: "linear",
 
-  responsive: [
-    {
-      breakpoint: 920, // 300–920px
-      settings: {
-        slidesToShow: 3,
-        slidesToScroll: 3,
+  const settings = {
+    mobileFirst: true,
+    dots: true,
+    infinite: true,
+    slidesToShow: 5,
+    slidesToScroll: 5,
+    autoplay: true,
+    speed: 1000,
+    autoplaySpeed: 3000,
+    cssEase: "linear",
+
+    responsive: [
+      {
+        breakpoint: 920, // 300–920px
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3,
+        },
       },
-    },
-    {
-      breakpoint: 1200, // above 920px (tablet / small laptop)
-      settings: {
-        slidesToShow: 4,
-        slidesToScroll: 4,
+      {
+        breakpoint: 1200, // above 920px (tablet / small laptop)
+        settings: {
+          slidesToShow: 4,
+          slidesToScroll: 4,
+        },
       },
-    },
-  ],
-};
+    ],
+  };
 
   const crousal = {
     dots: true,
@@ -133,7 +134,7 @@ const Home = () => {
               {
                 categories.map((item, index) => {
                   return (
-                    <div className='cursor-pointer px-5 py-5 padding'  key={index}>
+                    <div className='cursor-pointer px-5 py-5 padding' key={index}>
                       <img src={item.imageUrl} alt="" className='max-h-[50vh]' />
                     </div>
                   )
@@ -145,7 +146,7 @@ const Home = () => {
           )
         }
       </div>
-      <GoToTop/>
+      <GoToTop />
     </div>
   );
 };
