@@ -6,14 +6,35 @@ import { useAuth } from '../store/auth';
 import GoToTop from './GoToTop';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import useDeviceType from './UseDeviceType';
+
 
 const Home = () => {
+
+
+  const getSliderSettings = (slides) => ({
+    dots: true,
+    infinite: true,
+    autoplay: true,
+    speed: 800,
+    autoplaySpeed: 3000,
+    arrows: false,
+    slidesToShow: slides,
+    slidesToScroll: slides,
+  });
+
+  const device = useDeviceType();
+
+  const slidesCount =
+    device === "mobile" ? 2 :
+      device === "tablet" ? 3 : 5;
+
+  const sliderSettings = getSliderSettings(slidesCount);
 
 
   const { services } = useAuth();
   const { deals } = useAuth();
   const { categories } = useAuth();
-
 
 
   // const settings = {
@@ -44,42 +65,6 @@ const Home = () => {
   //     },
   //   ],
   // };
-
-  const settings = {
-    dots: true,
-    infinite: true,
-    autoplay: true,
-    speed: 1000,
-    autoplaySpeed: 3000,
-
-    slidesToShow: 5,
-    slidesToScroll: 5,
-
-    responsive: [
-      {
-        breakpoint: 1200, // laptop
-        settings: {
-          slidesToShow: 4,
-          slidesToScroll: 4,
-        },
-      },
-      {
-        breakpoint: 920, // tablet
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 3,
-        },
-      },
-      {
-        breakpoint: 640, // mobile
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 2,
-        },
-      },
-    ],
-  };
-
 
 
 
@@ -116,9 +101,9 @@ const Home = () => {
 
       <div id='RISING-STARS'>
         <h2 className="text-3xl text-[#3e4152] font-bold px-10 py-[6vw] tracking-[6px]">RISING STARS</h2>
-        {Array.isArray(services)  && services.length > 0 ? (
+        {Array.isArray(services) && services.length > 0 ? (
           <div className="slider-container">
-            <Slider  {...settings}>
+            <Slider  {...sliderSettings}>
               {services.map((service, index) => (
                 <div key={index}>
                   <div className="bg-white text-center">
@@ -145,7 +130,7 @@ const Home = () => {
         <h2 className="text-3xl text-[#3e4152] font-bold px-10 py-[6vw] tracking-[6px]">LUXE GRAND REDUCTION DEALS</h2>
         {Array.isArray(deals) && deals.length > 0 ? (
           <div className="slider-container">
-            <Slider {...settings}>
+            <Slider {...sliderSettings}>
               {deals.map((deal, index) => (
                 <div key={index}>
                   <div className="bg-white text-center">
