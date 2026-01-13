@@ -266,11 +266,7 @@ const Product = () => {
           </div>
         ) :
           (
-            <div className="fixed inset-0 flex items-center justify-center bg-black/40 backdrop-blur-sm">
-              <div className="w-20 h-20 rounded-2xl bg-white/20 flex items-center justify-center shadow-lg">
-                <div className="w-10 h-10 border-4 border-white/30 border-t-white rounded-full animate-spin"></div>
-              </div>
-            </div>
+            <div>Loading</div>
           )
       }
       <GoToTop />
