@@ -87,7 +87,7 @@ const Home = (props) => {
 
   return (
     <div className="mt-10 overflow-x-hidden overflow-hidden" id='home'>
-      <div className="slider-container">
+      <div className="slider-container" id='crousal'>
         <Slider {...crousal}>
           <div className='cursor-pointer'>
             <img src="/images/Crousal/img1.webp" alt="" />

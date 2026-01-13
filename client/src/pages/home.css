@@ -16,6 +16,9 @@ body {
     width: 100%;
     height: 27vh;
   }
+  #home #crousal img{
+    height: 23vh;    
+  }
 
   h2 {
     font-size: 10px;
