@@ -9,7 +9,13 @@ import "slick-carousel/slick/slick-theme.css";
 import useDeviceType from './UseDeviceType';
 
 
-const Home = () => {
+const Home = (props) => {
+
+   if (props.home) {
+        const element = document.getElementById('home')
+        console.log(element)
+        element.style.filter = props.filter
+    }
 
 
   const getSliderSettings = (slides) => ({

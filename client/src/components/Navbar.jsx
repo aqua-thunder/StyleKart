@@ -4,10 +4,12 @@ import { useAuth } from '../store/auth'
 import { useState } from 'react'
 import './Navbar.css'
 import Hamburger from '../pages/Hamburger'
+import Home from '../pages/Home'
 
 const Navbar = () => {
   const { isLoggedIn } = useAuth();
   const [hamburger, setHamburger] = useState()
+  const [home, setHome] = useState()
   const { user } = useAuth();
   const profileIn = () => {
     const element = document.getElementById("profileTable")
@@ -30,20 +32,26 @@ const Navbar = () => {
   const hamburgerOn = () => {
 
     const navbar = document.getElementById('navbar')
-    navbar.style.overflow = "hidden"
+    navbar.style.overflow = "hidden"  
 
     const element = document.getElementById('hamburger')
+    const home = document.getElementById('home')
     if (element) {
-      element.style.width = "100%"
+      element.style.width = "80%"
       element.style.minHeight = "100%"
       element.style.transition = "0.3s"
     }
+    if(home){
+      home.style.filter = "blur(8px)"
+    }
+    <Home home={home}/>, 
+
     <Hamburger hamburger={hamburger} />
   }
 
   return ( 
     <>
-      <header className='sticky top-0 z-10 bg-white'>
+      <header className='sticky top-0 z-10 bg-white '>
         <div className=" container px-10 shadow-md shadow-black-600/50" id='navbar'>
           <Hamburger />
           <nav className='flex items-center text-sm '>
