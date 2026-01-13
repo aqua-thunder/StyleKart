@@ -6,46 +6,64 @@ import './product.css'
 import './GoToTop'
 import Slider from 'react-slick';
 import GoToTop from './GoToTop'
+import useIsMobile from './useIsMobile'
 
 const Product = () => {
+
+  const isMobile = useIsMobile(1024);
+
+
   const API_URL = import.meta.env.VITE_API_URL;
 
   const { id } = useParams();
   const [info, setInfo] = useState(null);
   const { user, authorizationToken } = useAuth();
 
-  const settings = {
+  // const settings = {
+  //   dots: true,
+  //   infinite: true,
+  //   slidesToShow: 3,
+  //   slidesToScroll: 3,
+  //   autoplay: true,
+  //   speed: 1000,
+  //   autoplaySpeed: 3000,
+  //   arrows: false,
+  //   cssEase: "linear",
+
+  //   responsive: [
+  //     {
+  //       breakpoint: 500,
+  //       settings: {
+  //         slidesToShow: 1,
+  //         slidesToScroll: 1,
+  //       }
+  //     },
+  //     {
+  //       breakpoint: 800,
+  //       settings: {
+  //         slidesToShow: 1,
+  //         slidesToScroll: 1,
+  //       }
+  //     },
+  //     {
+  //       breakpoint: 99999, // anything above 800px
+  //       settings: "unslick"
+  //     }
+  //   ]
+  // };
+
+  const sliderSettings = {
     dots: true,
     infinite: true,
-    slidesToShow: 3,
-    slidesToScroll: 3,
     autoplay: true,
-    speed: 1000,
+    speed: 800,
     autoplaySpeed: 3000,
     arrows: false,
-    cssEase: "linear",
-
-    responsive: [
-      {
-        breakpoint: 500,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-        }
-      },
-      {
-        breakpoint: 800,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-        }
-      },
-      {
-        breakpoint: 99999, // anything above 800px
-        settings: "unslick"
-      }
-    ]
+    cssEase: "ease-in-out",
+    slidesToShow: 1,
+    slidesToScroll: 1,
   };
+
 
   const getProductData = async () => {
     try {
@@ -147,19 +165,27 @@ const Product = () => {
                 )}
               </div>
               {/* bellow crousal display when screen size bellow 800px */}
-              <div id='crousal' className='lg:hidden'>
-                <Slider {...settings}>
-                  {info.images.map((url, index) => (
-                    <div key={index}>
-                      <img
-                        src={url}
-                        alt="product"
-                        className='max-w-[100%]'
-                      />
-                    </div>
-                  ))}
-                </Slider>
-              </div>
+              {isMobile ? (
+                <div id='crousal' className='lg:hidden'>
+                  <Slider {...sliderSettings}>
+                    {info.images.map((url, index) => (
+                      <div key={index}>
+                        <img
+                          src={url}
+                          alt="product"
+                          className='max-w-[100%]'
+                        />
+                      </div>
+                    ))}
+                  </Slider>
+                </div>
+              )
+                : (
+                  <div>
+                  </div>
+                )
+              }
+
             </div>
             <div className='w-[40%]' id='product_info'>
               <div className='py-10 space-y-2'>
