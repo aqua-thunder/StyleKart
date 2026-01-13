@@ -5,6 +5,7 @@ import { useAuth } from '../store/auth'
 import { toast } from 'react-toastify';
 
 import './login.css'
+import GoToTop from './GoToTop';
 const Login = () => {
   const API_URL = import.meta.env.VITE_API_URL;
 
@@ -69,6 +70,7 @@ const Login = () => {
                     <button type='submit' className='bg-[#ff4777] text-white font-bold w-full py-3 cursor-pointer'>Login</button>
                 </form>
             </div>
+            <GoToTop/>
         </div>
     )
 }

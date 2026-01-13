@@ -48,7 +48,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className='px-24 space-y-3 mt-10' id='padding' >
-                    <h3 className='font-bold text-black'>POPULAR SEARCHES</h3>
+                    <h3 className='font-bold text-black' id='center'>POPULAR SEARCHES</h3>
                     <p className=' '>Makeup | Dresses For Girls | T-Shirts | Sandals | Headphones | Babydolls | Blazers For Men | Handbags | Ladies Watches | Bags | Sport Shoes | Reebok Shoes | Puma Shoes | Boxers | Wallets | Tops | Earrings | Fastrack Watches | Kurtis | Nike | Smart Watches | Titan Watches | Designer Blouse | Gowns | Rings | Cricket Shoes | Forever 21 | Eye Makeup | Photo Frames | Punjabi Suits | Bikini | stylekaart Fashion Show | Lipstick | Saree | Watches | Dresses | Lehenga | Adidas Shoes | Woodland Shoes | Jewellery | Designers Sarees | Goggles | Bras | Suit | Chinos | Shoes |</p>
                 </div>
                 <div className='flex justify-evenly mt-10 space-y-2' id='all-rights'>

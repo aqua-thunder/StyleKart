@@ -1,16 +1,21 @@
 import React from 'react'
 import { BrowserRouter, Navigate, NavLink, Outlet, Route } from 'react-router-dom'
-import {useAuth} from '../../store/auth'
+import { useAuth } from '../../store/auth'
 
 const Admin_layout = () => {
-  const {user, isLoading} = useAuth();
-  console.log("Admin Layout" , user)
+  const { user, isLoading } = useAuth();
+  console.log("Admin Layout", user)
 
-  if(isLoading){
-    return <h1>Loading...</h1>
+  if (isLoading) {
+    return (
+      <div className="flex items-center justify-center gap-2 h-screen">
+        <span className="w-3 h-3 bg-blue-500 rounded-full animate-bounce [animation-delay:-0.3s]"></span>
+        <span className="w-3 h-3 bg-purple-500 rounded-full animate-bounce [animation-delay:-0.15s]"></span>
+        <span className="w-3 h-3 bg-pink-500 rounded-full animate-bounce"></span>
+      </div>)
   }
-  if(!user.isAdmin){
-    return <Navigate to="/"/>
+  if (!user.isAdmin) {
+    return <Navigate to="/" />
   }
   return (
     <>

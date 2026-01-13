@@ -6,7 +6,7 @@ import './wishlist.css'
 
 
 const Wishlist = () => {
-  const API_URL = import.meta.env.VITE_API_URL;
+    const API_URL = import.meta.env.VITE_API_URL;
 
     const { user, authorizationToken } = useAuth();
     const [wishlist, setWishlist] = useState([]);
@@ -73,7 +73,15 @@ const Wishlist = () => {
     }
 
     if (loading) {
-        return <div className="p-10 text-center">Loading wishlist...</div>;
+        return (
+            <div className="flex items-center justify-center gap-2 h-screen">
+                <span className="w-3 h-3 bg-blue-500 rounded-full animate-bounce [animation-delay:-0.3s]"></span>
+                <span className="w-3 h-3 bg-purple-500 rounded-full animate-bounce [animation-delay:-0.15s]"></span>
+                <span className="w-3 h-3 bg-pink-500 rounded-full animate-bounce"></span>
+            </div>
+
+
+        );
     }
 
     if (wishlist.length === 0) {

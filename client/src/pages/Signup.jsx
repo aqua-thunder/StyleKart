@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom'
 import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../store/auth'
 import { toast } from 'react-toastify'
+import GoToTop from './GoToTop.js'
 import './signup.css'
 
 const Signup = () => {
@@ -64,26 +65,26 @@ const Signup = () => {
 
 
     return (
-        <div className='min-h-screen bg-[#fdefe8] flex justify-center items-center'>
-            <div className='bg-white w-[26vw] pb-10' id='signup'>
+        <div className='min-h-screen bg-[#fdefe8] flex justify-center items-center pb-10'>
+            <div className='bg-white w-[30vw] pb-10' id='signup'>
                 <img src="/images/login.webp" className='mb-10' alt="" />
                 <div >
-                    <form onSubmit={handleSubmit} className='px-4 space-y-5'>
+                    <form onSubmit={handleSubmit} className='px-7 space-y-5'>
                         <div>
                             <span className='font-bold text-lg'>Signup </span>
                         </div>
                         <div>
-                            <input type="text" name='username' id='username' value={user.username} onChange={handleInput} required autoComplete='off' placeholder='Enter username' className='text-sm px-2 py-2 border border-gray-300 w-full  outline-none' />
+                            <input type="text" name='username' id='username' value={user.username} onChange={handleInput} required autoComplete='off' placeholder='Enter username' className='text-sm px-2 py-2 border border-gray-300 w-full  outline-none ' />
                         </div>
                         <div>
-                            <input type="email" name='email' id='email' value={user.email} onChange={handleInput} required autoComplete='off' placeholder='Enter Your Email' className='text-sm px-2 py-2 border border-gray-300 w-full  outline-none' />
+                            <input type="email" name='email' id='email' value={user.email} onChange={handleInput} required autoComplete='off' placeholder='Enter Your Email' className='text-sm px-2 py-2 border border-gray-300 w-full  outline-none ' />
                         </div>
                         <div className='text-sm px-5  border border-gray-300 w-full  '>
                             <span className='text-gray-500'>+91 |</span>
-                            <input type="number" name='phone' id='phone' value={user.phone} onChange={handleInput} required autoComplete='off' placeholder='Mobile Your Phone' className='text-sm px-2 py-2  outline-none' />
+                            <input type="number" name='phone' id='phone' value={user.phone} onChange={handleInput} required autoComplete='off' placeholder='Mobile Your Phone' className='text-sm px-2 py-2  outline-none ' />
                         </div>
                         <div>
-                            <input type="password" name='password' id='password' value={user.password} onChange={handleInput} required autoComplete='off' placeholder='Enter Your Password' className='text-sm px-2 py-2 border border-gray-300 w-full  outline-none' />
+                            <input type="password" name='password' id='password' value={user.password} onChange={handleInput} required autoComplete='off' placeholder='Enter Your Password' className='text-sm px-2 py-2 border border-gray-300 w-full  outline-none ' />
                         </div>
 
                         <div>
@@ -100,6 +101,7 @@ const Signup = () => {
                     </form>
                 </div>
             </div>
+            <GoToTop/>
         </div>
     )
 }

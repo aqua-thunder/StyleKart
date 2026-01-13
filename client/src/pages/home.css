@@ -20,10 +20,10 @@ body {
     height: 23vh;    
   }
 
-  h2 {
-    font-size: 10px;
+  #home h2 {
+    font-size: 17px;
     margin-top: 30px;
-    padding: 5px;
+    padding: 12vw 5vw 2vw 3vw;
     letter-spacing: 2px;
   }
 
