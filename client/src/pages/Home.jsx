@@ -15,34 +15,73 @@ const Home = () => {
   const { categories } = useAuth();
 
 
-  const settings = {
-    mobileFirst: true,
-    dots: true,
-    infinite: true,
-    slidesToShow: 5,
-    slidesToScroll: 5,
-    autoplay: true,
-    speed: 1000,
-    autoplaySpeed: 3000,
-    cssEase: "linear",
+  // const settings = {
+  //   mobileFirst: true,
+  //   dots: true,
+  //   infinite: true,
+  //   slidesToShow: 5,
+  //   slidesToScroll: 5,
+  //   autoplay: true,
+  //   speed: 1000,
+  //   autoplaySpeed: 3000,
+  //   cssEase: "linear",
 
-    responsive: [
-      {
-        breakpoint: 920, // 300–920px
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 3,
-        },
+  //   responsive: [
+  //     {
+  //       breakpoint: 920, // 300–920px
+  //       settings: {
+  //         slidesToShow: 3,
+  //         slidesToScroll: 3,
+  //       },
+  //     },
+  //     {
+  //       breakpoint: 1200, // above 920px (tablet / small laptop)
+  //       settings: {
+  //         slidesToShow: 4,
+  //         slidesToScroll: 4,
+  //       },
+  //     },
+  //   ],
+  // };
+
+  const settings = {
+  dots: true,
+  infinite: true,
+  autoplay: true,
+  speed: 1000,
+  autoplaySpeed: 3000,
+  cssEase: "linear",
+
+  slidesToShow: 5,       // ✅ Desktop default
+  slidesToScroll: 5,
+
+  responsive: [
+    {
+      breakpoint: 1200, // laptop
+      settings: {
+        slidesToShow: 4,
+        slidesToScroll: 4,
       },
-      {
-        breakpoint: 1200, // above 920px (tablet / small laptop)
-        settings: {
-          slidesToShow: 4,
-          slidesToScroll: 4,
-        },
+    },
+    {
+      breakpoint: 920, // tablet
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
       },
-    ],
-  };
+    },
+    {
+      breakpoint: 640, // mobile
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2,
+      },
+    },
+  ],
+};
+
+ 
+
 
   const crousal = {
     dots: true,
