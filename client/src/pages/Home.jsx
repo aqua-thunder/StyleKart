@@ -15,6 +15,7 @@ const Home = () => {
   const { categories } = useAuth();
 
 
+
   // const settings = {
   //   mobileFirst: true,
   //   dots: true,
@@ -45,42 +46,41 @@ const Home = () => {
   // };
 
   const settings = {
-  dots: true,
-  infinite: true,
-  autoplay: true,
-  speed: 1000,
-  autoplaySpeed: 3000,
-  cssEase: "linear",
+    dots: true,
+    infinite: true,
+    autoplay: true,
+    speed: 1000,
+    autoplaySpeed: 3000,
 
-  slidesToShow: 5,       // ✅ Desktop default
-  slidesToScroll: 5,
+    slidesToShow: 5,
+    slidesToScroll: 5,
 
-  responsive: [
-    {
-      breakpoint: 1200, // laptop
-      settings: {
-        slidesToShow: 4,
-        slidesToScroll: 4,
+    responsive: [
+      {
+        breakpoint: 1200, // laptop
+        settings: {
+          slidesToShow: 4,
+          slidesToScroll: 4,
+        },
       },
-    },
-    {
-      breakpoint: 920, // tablet
-      settings: {
-        slidesToShow: 3,
-        slidesToScroll: 3,
+      {
+        breakpoint: 920, // tablet
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3,
+        },
       },
-    },
-    {
-      breakpoint: 640, // mobile
-      settings: {
-        slidesToShow: 2,
-        slidesToScroll: 2,
+      {
+        breakpoint: 640, // mobile
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2,
+        },
       },
-    },
-  ],
-};
+    ],
+  };
 
- 
+
 
 
   const crousal = {
@@ -116,7 +116,7 @@ const Home = () => {
 
       <div id='RISING-STARS'>
         <h2 className="text-3xl text-[#3e4152] font-bold px-10 py-[6vw] tracking-[6px]">RISING STARS</h2>
-        {Array.isArray(services) && services.length > 0 ? (
+        {Array.isArray(services)  && services.length > 0 ? (
           <div className="slider-container">
             <Slider  {...settings}>
               {services.map((service, index) => (
