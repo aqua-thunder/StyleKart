@@ -69,7 +69,7 @@ const Signup = () => {
             <div className='bg-white w-[30vw] pb-10' id='signup'>
                 <img src="/images/login.webp" className='mb-10' alt="" />
                 <div >
-                    <form onSubmit={handleSubmit} className='px-7 space-y-5'>
+                    <form onSubmit={handleSubmit} className='px-5 space-y-5'>
                         <div>
                             <span className='font-bold text-lg'>Signup </span>
                         </div>
