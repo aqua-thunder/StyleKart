@@ -17,7 +17,7 @@ const Signup = () => {
     })
     const [isChecked, setIsChecked] = useState(false);
 
-
+    
     const navigate = useNavigate();
     const { storetokenInLS } = useAuth();
 
@@ -79,7 +79,7 @@ const Signup = () => {
                         <div>
                             <input type="email" name='email' id='email' value={user.email} onChange={handleInput} required autoComplete='off' placeholder='Enter Your Email' className='text-sm px-2 py-2 border border-gray-300 w-full  outline-none ' />
                         </div>
-                        <div className='text-sm px-5  border border-gray-300 w-full  '>
+                        <div className='text-sm px-3  border border-gray-300 w-full  '>
                             <span className='text-gray-500'>+91 |</span>
                             <input type="number" name='phone' id='phone' value={user.phone} onChange={handleInput} required autoComplete='off' placeholder='Mobile Your Phone' className='text-sm px-2 py-2  outline-none ' />
                         </div>
@@ -101,10 +101,9 @@ const Signup = () => {
                     </form>
                 </div>
             </div>
-            <GoToTop/>
+            <GoToTop />
         </div>
     )
 }
 
 export default Signup
-
