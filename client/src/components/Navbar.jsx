@@ -15,7 +15,7 @@ const Navbar = () => {
     const element = document.getElementById("profileTable")
     if (element) {
       element.style.width = "20vw"
-      element.style.minHeight = "63vh"
+      element.style.minHeight = "58vh"
       element.style.paddingLeft = "2vw"
       element.style.paddingTop = "2vw"
     }
@@ -97,11 +97,11 @@ const Navbar = () => {
                 </NavLink>
               </div>
             </div>
-            <div onMouseOver={profileIn} onMouseOut={profileOut} className='shadow shadow-gray-300  w-0 h-0 overflow-x-hidden z-1 fixed top-[69px] right-12 bg-white' id='profileTable'>
+            <div onMouseOver={profileIn} onMouseOut={profileOut} className='shadow shadow-gray-300  w-0 h-0 overflow-x-hidden z-1 fixed top-[69px] right-12 bg-white rounded-lg' id='profileTable'>
               <div className='space-y-2'>
                 {
                   isLoggedIn ?
-                    (<div>
+                    (<div className='space-y-1'>
                       <h2 className='font-bold'>{user.username}</h2>
                       <h2 className='text-gray-800'>{user.email}</h2>
                       <NavLink to="/logout"><button onClick={profileOut} className='text-[#ff3f6c] font-bold border border-gray-200 py-2 px-3 rounded-sm cursor-pointer hover:border-[#ff3f6c]'>Logout</button></NavLink>
@@ -128,13 +128,12 @@ const Navbar = () => {
                   <li className='cursor-pointer hover:font-bold'>Wishlist</li>
                   <li className='cursor-pointer hover:font-bold'>Gift Cards</li>
                   <li className='cursor-pointer hover:font-bold'><NavLink to="/Contact">Contact us</NavLink></li>
-                  <li className='cursor-pointer hover:font-bold'>Myntra Insiders</li>
-                  <li className='cursor-pointer hover:font-bold'>Myntra Credit</li>
+                  <li className='cursor-pointer hover:font-bold'>Stylekaart Insiders</li>
+                  <li className='cursor-pointer hover:font-bold'>Stylekaart Credit</li>
                   <li className='cursor-pointer hover:font-bold'>Coupons</li>
                   <li className='cursor-pointer hover:font-bold'>Saved Cards</li>
                   <li className='cursor-pointer hover:font-bold'>Saved VPA</li>
                   <li className='cursor-pointer hover:font-bold'>Saved Address</li>
-
                 </ul>
               </div>
             </div>
