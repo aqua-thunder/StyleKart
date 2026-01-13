@@ -9,14 +9,14 @@ const Footer = () => {
                 <div className='flex justify-evenly mt-20 ' id='grid'>
                     <div id='center'>
                         <h3 className='font-bold text-black'>ONLINE SHOPPING</h3>
-                        <NavLink to="/men"><li className='list-none mt-5 hover:text-black font-semibold'>Men</li></NavLink>
-                        <NavLink to="/women"><li className='list-none hover:text-black font-semibold'>Women</li></NavLink>
-                        <NavLink to="/kids"><li className='list-none hover:text-black font-semibold'>Kids</li></NavLink>
-                        <NavLink to="/"><li className='list-none hover:text-black font-semibold'>Home</li></NavLink>
-                        <NavLink to="/beauty"><li className='list-none hover:text-black font-semibold'>Beauty</li></NavLink>
-                        <NavLink to="/genz"><li className='list-none hover:text-black font-semibold'>Genz</li></NavLink>
-                        <NavLink to="/gift-cards"><li className='list-none hover:text-black font-semibold'>Gift Cards</li></NavLink>
-                        <NavLink to="/insiders"><li className='list-none hover:text-black font-semibold'>Stylekaart Insider</li></NavLink>
+                        <NavLink to="/men"><li className='list-none mt-5 hover:text-black hover:font-semibold'>Men</li></NavLink>
+                        <NavLink to="/women"><li className='list-none hover:text-black hover:font-semibold'>Women</li></NavLink>
+                        <NavLink to="/kids"><li className='list-none hover:text-black hover:font-semibold'>Kids</li></NavLink>
+                        <NavLink to="/"><li className='list-none hover:text-black hover:font-semibold'>Home</li></NavLink>
+                        <NavLink to="/beauty"><li className='list-none hover:text-black hover:font-semibold'>Beauty</li></NavLink>
+                        <NavLink to="/genz"><li className='list-none hover:text-black hover:font-semibold'>Genz</li></NavLink>
+                        <NavLink to="/gift-cards"><li className='list-none hover:text-black hover:font-semibold'>Gift Cards</li></NavLink>
+                        <NavLink to="/insiders"><li className='list-none hover:text-black hover:font-semibold'>Stylekaart Insider</li></NavLink>
                     </div>
                     <div id='center'>
                         <h3 className='font-bold text-black'>CUSTOMER POLICIES</h3>
@@ -51,7 +51,7 @@ const Footer = () => {
                     <h3 className='font-bold text-black'>POPULAR SEARCHES</h3>
                     <p className=' '>Makeup | Dresses For Girls | T-Shirts | Sandals | Headphones | Babydolls | Blazers For Men | Handbags | Ladies Watches | Bags | Sport Shoes | Reebok Shoes | Puma Shoes | Boxers | Wallets | Tops | Earrings | Fastrack Watches | Kurtis | Nike | Smart Watches | Titan Watches | Designer Blouse | Gowns | Rings | Cricket Shoes | Forever 21 | Eye Makeup | Photo Frames | Punjabi Suits | Bikini | stylekaart Fashion Show | Lipstick | Saree | Watches | Dresses | Lehenga | Adidas Shoes | Woodland Shoes | Jewellery | Designers Sarees | Goggles | Bras | Suit | Chinos | Shoes |</p>
                 </div>
-                <div className='flex justify-evenly mt-10 space-y-2' id='center'>
+                <div className='flex justify-evenly mt-10 space-y-2' id='all-rights'>
                     <p>In case of any concern, <span className='text-blue-500 font-bold cursor-pointer'>Contact Us</span></p>
                     <p>© 2025 www.stylekaart.com. All rights reserved.</p>
                     <a href="https://www.flipkart.com/" target='_blank'><p className='cursor-pointer'>A Flipkart company</p></a>

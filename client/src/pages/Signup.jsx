@@ -6,7 +6,7 @@ import { toast } from 'react-toastify'
 import './signup.css'
 
 const Signup = () => {
-  const API_URL = import.meta.env.VITE_API_URL;
+    const API_URL = import.meta.env.VITE_API_URL;
 
     const [user, setUser] = useState({
         username: "",
@@ -15,7 +15,7 @@ const Signup = () => {
         password: ""
     })
     const [isChecked, setIsChecked] = useState(false);
-    
+
 
     const navigate = useNavigate();
     const { storetokenInLS } = useAuth();
@@ -68,7 +68,7 @@ const Signup = () => {
             <div className='bg-white w-[26vw] pb-10' id='signup'>
                 <img src="/images/login.webp" className='mb-10' alt="" />
                 <div >
-                    <form onSubmit={handleSubmit} className='px-7 space-y-5'>
+                    <form onSubmit={handleSubmit} className='px-4 space-y-5'>
                         <div>
                             <span className='font-bold text-lg'>Signup </span>
                         </div>
@@ -87,7 +87,6 @@ const Signup = () => {
                         </div>
 
                         <div>
-                            
                             <input type="checkbox" name="policy" checked={isChecked} onChange={(e) => setIsChecked(e.target.checked)} />
                             <span className='px-3 text-sm font-bold text-[#464959]'>By continuting, I agree to the <span className='text-[#ff4777]'>Terms of Use</span> & <span className='text-[#ff4777]'>Privacy Policy</span> and I am above 18 years old.</span>
                         </div>

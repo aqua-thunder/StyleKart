@@ -11,6 +11,13 @@
       align-items: center;
       
    }
+   footer #all-rights{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      font-size: small;
+   }
 
    footer {
       padding: 15px;
