@@ -53,7 +53,7 @@ const Hamburger = (props) => {
                     <NavLink to="/myntraMail" onClick={FilterClose} className='cursor-pointer  border-b-2 border-gray-200 py-5 pl-8'>Mall</NavLink>
                     <NavLink to="/myntraInsiders" onClick={FilterClose} className='cursor-pointer  border-b-2 border-gray-200 py-5 pl-8'>Insiders</NavLink>
                     <NavLink to="/FAQ" onClick={FilterClose} className='cursor-pointer  border-b-2 border-gray-200 py-5 pl-8'>FAQs</NavLink>
-                    <NavLink to="/legal" onClick={FilterClose} className='cursor-pointer border-b-2 border-gray-200 py-5 pl-8'>Legal</NavLink>
+                    <NavLink to="/Logout" onClick={FilterClose} className='cursor-pointer border-b-2 border-gray-200 py-5 pl-8'>Logout</NavLink>
                     <NavLink to="" className='cursor-pointer border-b-2 border-gray-300 py-2 pl-4'>Virtual Try On</NavLink>
                 </ul>
             </div>
