@@ -7,13 +7,25 @@
         display: none;
     }
 
-    nav #profile {
+    /* nav #profile {
         left: 60vw;
         position: relative;
-    }
+    } */
+    /* nav{
+        display: flex;
+        justify-content:  space-between;
+    } */
 
     nav #profile img {
-        width: 7vw;
+        width: 6vw;
+    }
+    nav #user-action{
+        position: relative;
+        display: flex;
+        left: 22vw;
+        align-items: center;
+        justify-content: end;
+        gap: 5vw;
     }
 
     nav {
@@ -26,7 +38,7 @@
     #logo {
         width: 13vw;
         padding-right: 0vw;
-        padding-left: 0px;
+        padding-left: 10px;
     }
 
     .hamburger {

@@ -67,28 +67,19 @@ const Navbar = () => {
               {/* <li className='font-bold text-[#464959]'><NavLink to="/studio">STUDIO</NavLink></li> */}
               <li className='font-bold text-[#464959]' id='home_none' ><NavLink to="/">HOME</NavLink></li>
             </ul>
-            <div className='w-[50%] flex items-center justify-between' >
-              <input className='bg-[#f5f5f6] w-[30vw] px-3 rounded-sm py-2 display_none outline-none' type="text" placeholder='Search for products, brands and more' name="" />
+            <div className='w-[50%] flex items-center justify-between' id='user-action'>
+              <input className='bg-[#f5f5f6] w-[30vw] px-3 rounded-sm py-2 display_none outline-none' type="text" placeholder='Search for products, brands and more' name="" /> 
 
-              <div onMouseOver={profileIn} onMouseOut={profileOut} id='profile'>
-                <NavLink to="/signup" >
-                  <div className='h-[70px] flex flex-col justify-center items-center space-y-1'>
-                    <img src="/images/SVG/profile.svg" className='w-5' alt="" />
-                    <span className='font-bold text-[12px]'>Profile</span>
-                  </div>
-                </NavLink>
-              </div>
-
-              <div className='display_none'>
+              <div>
                 <NavLink to="/wishlist">
                   <div className='h-[70px] flex flex-col justify-center items-center space-y-1'>
                     <img src="/images/SVG/wishlist.svg" className='w-6' alt="" />
-                    <span className='font-bold text-[12px]'>Wishlist</span>
+                    <span className='font-bold text-[12px] display_none'>Wishlist</span>
                   </div>
                 </NavLink>
               </div>
 
-              <div className='display_none'>
+              <div className='display_none' id='bag'>
                 <NavLink to="/cart">
                   <div className='h-[70px] flex flex-col justify-center items-center space-y-1'>
                     <img src="/images/SVG/cart.svg" className='w-6' alt="" />
@@ -96,6 +87,16 @@ const Navbar = () => {
                   </div>
                 </NavLink>
               </div>
+
+              <div onMouseOver={profileIn} onMouseOut={profileOut} id='profile'>
+                <NavLink to="/signup" >
+                  <div className='h-[70px] flex flex-col justify-center items-center space-y-1'>
+                    <img src="/images/SVG/profile.svg" className='w-5' alt="" />
+                    <span className='font-bold text-[12px] display_none'>Profile</span>
+                  </div>
+                </NavLink>
+              </div>
+
             </div>
             <div onMouseOver={profileIn} onMouseOut={profileOut} className='shadow shadow-gray-300  w-0 h-0 overflow-x-hidden z-1 fixed top-[69px] right-12 bg-white rounded-lg' id='profileTable'>
               <div className='space-y-2'>
