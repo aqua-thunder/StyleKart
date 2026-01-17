@@ -39,11 +39,10 @@ const Hamburger = (props) => {
                     <NavLink to="/genz" onClick={FilterClose} className='cursor-pointer border-b-2 border-gray-200 py-5 pl-8'>Genz</NavLink>
                     <NavLink to="/wishlist" onClick={FilterClose} className='cursor-pointer  border-b-2 border-gray-200 py-5 pl-8'>Wishlist</NavLink>
                     <NavLink to="/cart" onClick={FilterClose} className='cursor-pointer  border-b-2 border-gray-200 py-5 pl-8'>Cart</NavLink>
-                    <NavLink to="/account" onClick={FilterClose} className='cursor-pointer  border-b-2 border-gray-200 py-5 pl-8'>Account</NavLink>
+                    <NavLink to="/contact" onClick={FilterClose} className='cursor-pointer border-b-2 border-gray-200 py-5 pl-8'>Contact Us</NavLink>
                     <NavLink to="/orders" onClick={FilterClose} className='cursor-pointer  border-b-2 border-gray-200 py-5 pl-8'>Orders</NavLink>
                     <NavLink to="/myntraMail" onClick={FilterClose} className='cursor-pointer  border-b-2 border-gray-200 py-5 pl-8'>Mall</NavLink>
                     <NavLink to="/myntraInsiders" onClick={FilterClose} className='cursor-pointer  border-b-2 border-gray-200 py-5 pl-8'>Insiders</NavLink>
-                    <NavLink to="/contact" onClick={FilterClose} className='cursor-pointer border-b-2 border-gray-200 py-5 pl-8'>Contactli</NavLink>
                     <NavLink to="/FAQ" onClick={FilterClose} className='cursor-pointer  border-b-2 border-gray-200 py-5 pl-8'>FAQs</NavLink>
                     <NavLink to="/legal" onClick={FilterClose} className='cursor-pointer border-b-2 border-gray-200 py-5 pl-8'>Legal</NavLink>
                     <NavLink to="" className='cursor-pointer border-b-2 border-gray-300 py-2 pl-4'>Virtual Try On</NavLink>
