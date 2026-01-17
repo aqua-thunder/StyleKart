@@ -1,10 +1,12 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import Home from './Home'
 import { useState } from 'react'
+import { useAuth } from '../store/auth'
 
 const Hamburger = (props) => {
-    const [Home, setHome] = useState()
+    const [Home, setHome] = useState();
+    const { isLoggedIn } = useAuth();
+    const { user } = useAuth();
     if (props.element) {
         const element = document.getElementById('hamburger')
         element.style.width = props.width
@@ -19,16 +21,22 @@ const Hamburger = (props) => {
             element.style.minHeight = "0vh"
             element.style.transition = "0.3s"
         }
-        if(home){
+        if (home) {
             home.style.filter = "blur(0px)"
         }
-        <Home home={home}/>
+        <Home home={home} />
     }
     return (
         <div>
             <div className='w-0 h-0 left-0 overflow-x-hidden fixed bg-white z-20' id='hamburger'>
                 <div className='flex justify-between items-center py-10 px-8 bg-[#3f3947]'>
-                    <h1 className='text-center text-[21px] text-white'>Account</h1>
+                    {
+                        isLoggedIn
+                            ?
+                            (<h1 className='text-center text-[21px] text-white'>Account</h1>)
+                            :
+                            (<h1 className='text-center text-[21px] text-white'>{user.username}</h1>)
+                    }
                     <img onClick={FilterClose} className='bg-gray-900 rounded-full invert w-5 cursor-pointer' src="/images/SVG/cross.svg" alt="" />
                 </div>
                 <ul className='  border border-gray-200 flex flex-col rounded-lg space-y-5  py-7  text-sm font-semibold '>
