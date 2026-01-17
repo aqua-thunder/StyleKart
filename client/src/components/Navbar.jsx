@@ -91,7 +91,7 @@ const Navbar = () => {
               <div onMouseOver={profileIn} onMouseOut={profileOut} id='profile'>
                 <NavLink to="/signup" >
                   <div className='h-[70px] flex flex-col justify-center items-center space-y-1'>
-                    <img src="/images/SVG/profile.svg" className='w-5' alt="" />
+                    <img src="/images/SVG/profile.svg" className='w-6 font-bold' alt="" />
                     <span className='font-bold text-[12px] display_none'>Profile</span>
                   </div>
                 </NavLink>
