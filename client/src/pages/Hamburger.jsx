@@ -33,9 +33,10 @@ const Hamburger = (props) => {
                     {
                         isLoggedIn
                             ?
-                            (<h1 className='text-center text-[21px] text-white'>Account</h1>)
-                            :
                             (<h1 className='text-center text-[21px] text-white'>{user.username}</h1>)
+                            :
+                            (<h1 className='text-center text-[21px] text-white'>Account</h1>)
+
                     }
                     <img onClick={FilterClose} className='bg-gray-900 rounded-full invert w-5 cursor-pointer' src="/images/SVG/cross.svg" alt="" />
                 </div>
