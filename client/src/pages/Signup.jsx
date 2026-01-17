@@ -4,10 +4,14 @@ import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../store/auth'
 import { toast } from 'react-toastify'
 import GoToTop from './GoToTop.js'
+import useIsDesktop from '../hooks/useIsDesktop.js';
+
 import './signup.css'
 
 const Signup = () => {
     const API_URL = import.meta.env.VITE_API_URL;
+    const isDesktop = useIsDesktop(); // 👈 detect screen
+
 
     const [user, setUser] = useState({
         username: "",
@@ -17,7 +21,7 @@ const Signup = () => {
     })
     const [isChecked, setIsChecked] = useState(false);
 
-    
+
     const navigate = useNavigate();
     const { storetokenInLS } = useAuth();
 
@@ -42,9 +46,10 @@ const Signup = () => {
                 body: JSON.stringify(user)
             });
             const res_data = await response.json();
-            console.log("Response from server ", res_data.message)
             if (response.ok) {
-                toast.success(res_data.message)
+                if (isDesktop) {
+                    toast.success(res_data.message);
+                }
                 storetokenInLS(res_data.token);
                 setUser({
                     username: "",
@@ -56,7 +61,9 @@ const Signup = () => {
                 )
             }
             else {
-                toast.error(res_data.extraDetails ? res_data.extraDetails : res_data.message)
+                if (isDesktop) {
+                    toast.error(res_data.extraDetails || res_data.message);
+                }
             }
         } catch (error) {
             console.log("Register", error)

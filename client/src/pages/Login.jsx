@@ -3,11 +3,13 @@ import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../store/auth'
 import { toast } from 'react-toastify';
+import useIsDesktop from '../hooks/useIsDesktop.js';
 
 import './login.css'
 import GoToTop from './GoToTop';
 const Login = () => {
-  const API_URL = import.meta.env.VITE_API_URL;
+    const API_URL = import.meta.env.VITE_API_URL;
+    const isDesktop = useIsDesktop(); // 👈 detect screen
 
     const [user, setUser] = useState({
         email: "",
@@ -36,9 +38,11 @@ const Login = () => {
             });
 
             const res_data = await response.json();
-            console.log("Response from server ", res_data.message)
+
             if (response.ok) {
-                toast.success(res_data.message)
+                if (isDesktop) {
+                    toast.success(res_data.message);
+                }
                 storetokenInLS(res_data.token);
                 setUser({
                     email: "",
@@ -46,7 +50,9 @@ const Login = () => {
                 },
                     navigate("/"))
             } else {
-                toast.error(res_data.extraDetails ? res_data.extraDetails : res_data.message);
+                if (isDesktop) {
+                    toast.error(res_data.extraDetails || res_data.message);
+                }
             }
         } catch (error) {
             console.log("Login", error)
@@ -70,7 +76,7 @@ const Login = () => {
                     <button type='submit' className='bg-[#ff4777] text-white font-bold w-full py-3 cursor-pointer'>Login</button>
                 </form>
             </div>
-            <GoToTop/>
+            <GoToTop />
         </div>
     )
 }
