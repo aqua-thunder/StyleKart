@@ -9,7 +9,7 @@ const Kid = () => {
 
   return (
     <div>
-      <div  id='CATEGORY'>
+      <div id='CATEGORY'>
         <h2 className="text-2xl text-[#3e4152] font-bold px-24 py-[3vw] tracking-[3px]">Kid’s Wear Collection</h2>
         {
           Array.isArray(kids) && kids.length > 0 ? (
@@ -34,11 +34,15 @@ const Kid = () => {
               }
             </div>
           ) : (
-            <div>No Category Available</div>
+            <div className="flex items-center justify-center gap-2 h-screen">
+              <span className="w-3 h-3 bg-blue-500 rounded-full animate-bounce [animation-delay:-0.3s]"></span>
+              <span className="w-3 h-3 bg-purple-500 rounded-full animate-bounce [animation-delay:-0.15s]"></span>
+              <span className="w-3 h-3 bg-pink-500 rounded-full animate-bounce"></span>
+            </div>
           )
         }
       </div>
-      <GoToTop/>
+      <GoToTop />
     </div>
   )
 }
