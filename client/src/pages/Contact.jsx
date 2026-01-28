@@ -46,10 +46,9 @@ const Contact = () => {
                 const data = await response.json();
                 console.log(data)
                 toast.success("Message send successfuly");
-
             }
         } catch (error) {
-
+            console.log(error)
         }
     }
     return (
